@@ -1,3 +1,5 @@
 ---
+sort: 0
 ---
-# 公式测试： $x^2$
+# 目录列表
+{% include list.liquid all=true %}

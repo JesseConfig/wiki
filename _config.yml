@@ -1,1 +1,24 @@
+title: "Jesse Wiki Docs"
+lang: zh_CN.UTF-8
+description: "GitHub Pages documentation."
+
+timezone: "Asia/Shanghai"
+encoding: "utf-8"
+
 remote_theme: rundocs/jekyll-rtd-theme
+
+markdown: kramdown 
+
+# 对侧边栏进行排序 默认按path排序
+# 排序后的文件将根据您的输入具有一定的顺序！
+# 如果您要关闭toctree中的订单前缀，
+# show_sorted: false
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock

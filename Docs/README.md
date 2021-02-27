@@ -1,5 +1,5 @@
 ---
-sort: 0 # follow a certain sequence of letters or numbers
+sort: 1 # follow a certain sequence of letters or numbers
 ---
 # 2020.02
 

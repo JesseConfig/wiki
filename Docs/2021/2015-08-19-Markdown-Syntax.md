@@ -1,4 +1,4 @@
-## 2015-08-19 Markdown 概述
+## 2015-08-19-Markdown 概述
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。 
 —— [维基百科](https://zh.wikipedia.org/wiki/Markdown)
@@ -13,30 +13,8 @@ Markdown 格式的简洁特性、兼容扩展性颇佳，使之能快速转换�
 
 常见及常用的 Markdown 编辑器很多，比如：
 
-* [MacDown](http://macdown.uranusjr.com/)
+
 * [Typora](http://typora.io/)  
-
-此外还有（收费为主）：
-
-* [Scrivener](http://www.literatureandlatte.com/scrivener.php)
-* [Typed](http://realmacsoftware.com/typed/)
-* [
-](https://ia.net/writer/mac/)
-* [Byword](http://bywordapp.com/)
-* [Marked 2](http://marked2app.com/)
-* [Ulysses](http://www.ulyssesapp.com/)
-* [Marboo](http://marboo.io/) 
-* [Mou](http://25.io/mou/)
-
-以及支持 Markdown 的优质在线编辑器：
-
-* [马克飞象](http://maxiang.info/)
-* [Dillinger](http://dillinger.io/)
-* [StackEdit](https://stackedit.io/)
-* [Markable](http://markable.in/editor/)
-
-入门编辑器推荐第一序列的 MacDown，其它编辑器可以等熟悉 Markdown 之后再自行探索。
- 
 
 
 # Markdown 语法
@@ -239,10 +217,6 @@ My Favorite Fruit List:
 >> 杭州  
 >>> 西湖  
 >>>> 湖心亭  
-
-博客默认的 Markdown 工具有点问题，效果如下图：
-
-![嵌套引用](http://i1381.photobucket.com/albums/ah234/Azeril_Lapland/Screen%20Shot%202015-08-30%20at%209.26.17%20PM_zpsg0ojze8c.png)
 
 语法如下，每行多添加一个「>」符号，再输入文字内容即可（每行行尾记得添两个空格符）：
 
@@ -544,19 +518,6 @@ Tips: 关于 jpg/png 都是常用文件格式，jpg 格式压缩效率高，相�
         <a href="{{ site.url }}/images/yyy.jpg"><img src="{{ site.url }}/images/ yyy.jpg"></a>
     </figure>
     
-### 添加图片代码分享
-
-因博客显示时引用的部分 HTML 代码有问题，所以另外发一份 md 版本的文档供参考。
-
-下载地址：
-
-百度云 - [Dl from BaiduYun](http://pan.baidu.com/s/1Bb4qM)  
-box.com -  [Dl from Box.com](https://app.box.com/s/l8x1jajwv82umq33aa7dkwpl9sr59q55)  
-dropbox -  [Dl from Dropbox](https://dl.dropboxusercontent.com/u/64524965/AddPic.md)  
-
-愉快。
-
-
 ## 参考文档及扩展阅读
 
 1. [献给写作者的 Markdown 新手指南_简书](http://www.jianshu.com/p/q81RER)  

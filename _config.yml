@@ -1,6 +1,6 @@
 title: "Jesse Wiki Docs"
 lang: zh_CN.UTF-8
-description: "GitHub Pages documentation."
+description: "GitHub Pages Jesse documentation."
 
 timezone: "Asia/Shanghai"
 encoding: "utf-8"
@@ -16,6 +16,7 @@ markdown: kramdown
 
 readme_index:
   with_frontmatter: true
+  show_sorted: false
 
 exclude:
   - Makefile

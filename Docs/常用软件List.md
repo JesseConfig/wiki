@@ -1,5 +1,30 @@
 ## 软件List
 
+设备MAC公开列表public listing
+```
+https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
+http://standards-oui.ieee.org/oui/oui.csv
+http://standards-oui.ieee.org/oui28/mam.csv
+http://standards-oui.ieee.org/oui36/oui36.csv
+http://standards-oui.ieee.org/oui36/oui36.csv
+http://standards-oui.ieee.org/cid/cid.csv
+http://standards-oui.ieee.org/ethertype/eth.csv
+http://standards-oui.ieee.org/manid/manid.csv
+http://standards-oui.ieee.org/bopid/opid.csv
+http://standards-oui.ieee.org/iab/iab.csv
+```
+
+使用CutyCapt将HTML转换成PNG  
+```
+sudo apt-get install xvfb
+sudo apt-get install cutycapt
+xvfb-run --server-args="-screen 0, 1280x1200x24" cutycapt --url=http://www.cnn.com --out=cnn.png 
+cutycapt --url=http://www.cnn.com --out=cnn.pdf
+cutycapt --url=http://www.cnn.com --out=cnn.png
+```
+
+启动EFISTUB内核的UEFI 引导管理器 http://www.rodsbooks.com/refind/ https://wiki.archlinux.org/index.php/REFInd
+
 Visual Studio https://code.visualstudio.com/download#
 
 SDCC是可重定目标的，优化的标准C（ANSI C89，ISO C99，ISO C11）编译器套件，针对的是基于Intel MCS51的微处理器（8031、8032、8051、8052等）， Maxim（以前为Dallas），DS80C390变体， 飞思卡尔（以前基于Motorola）基于HC08 （hc08，s08）
@@ -37,6 +62,9 @@ WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户�
 Python https://www.python.org/
 
 Git for Windows https://gitforwindows.org/
+
+MDwiki是完全内置HTML5 / Javascript的CMS / Wiki  http://dynalon.github.io/mdwiki/#!index.md
+
 
 Notepad++ 是免费的源代码编辑器 https://notepad-plus-plus.org/
 

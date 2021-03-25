@@ -1,5 +1,11 @@
 ## 软件List
 
+dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/
+https://github.com/arsenetar/dupeguru/releases/download/4.1.1/dupeGuru_win64_4.1.1.exe
+
+查找重复文件
+https://www.clonefileschecker.com/feature.html
+
 设备MAC公开列表public listing
 ```
 https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries

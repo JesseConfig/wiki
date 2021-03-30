@@ -1,13 +1,46 @@
 # Linux Sed 笔记
 
+Linux取两个文件相同不同的部分
+```
+comm 
+用法：comm [选项]... 文件1 文件2
+逐行比较已排序的文件文件1 和文件2。
+
+When FILE1 or FILE2 (not both) is -, read standard input.
+
+如果不附带选项，程序会生成三列输出。第一列包含文件1 特有的行，第二列包含 文件2 特有的行，而第三列包含两个文件共有的行。
+
+  -1            不输出文件1 特有的行
+  -2            不输出文件2 特有的行
+  -3            不输出两个文件共有的行
+
+  --check-order                 检查输入是否被正确排序，即使所有输入行均成对
+  --nocheck-order               不检查输入是否被正确排序
+  --output-delimiter=STR        依照STR 分列
+  --total           output a summary
+  -z, --zero-terminated    以 NUL 字符而非换行符作为行尾分隔符
+      --help            显示此帮助信息并退出
+      --version         显示版本信息并退出
+
+Note, comparisons honor the rules specified by 'LC_COLLATE'.
+
+示例：
+  comm -12 文件1 文件2  只打印在文件1 和文件2 中都有的行
+  comm -3  文件1 文件2  打印在文件1 中有，而文件2 中没有的行。反之亦然。
+
+```
 - 取出IP
 `/sbin/ifconfig eth0 | grep 'inet addr' | sed 's/^.*addr://g' | sed 's/Bcast.*$//g'`
 
 
 ## 合并
 
-- 合并所有行空格分割 
+- 以空格分割 合并所有行
 `sed ':a;N;s/\n/ /;ba;'`
+`awk '{ print $1 }' | sed ':a;N;s/\n/ /;ba;'`
+
+- 以空格分割 拆分成多行
+`sed 's/ /\n/g'`
 
 - 合并匹配模式及其下一行
 `sed '/匹配304175/{N;s/\n/ /}'`
@@ -154,11 +187,13 @@ d:删除模式空间中的行；
 D:删除多行模式空间中的所有行。
 
 sed -n 'n;p' FILE：显示偶数行；
+sed 'n;d' FILE：显示奇数行；
+
 sed '1!G;h;$!d' FILE：逆序显示文件的内容；
 sed '$!d' FILE：取出最后一行；
 sed '\$!N;$!D' FILE：取出文件后两行；
 sed '/^$/d;G' FILE：删除原有的所有空白行，而后为所有的非空白行后添加一个空白行；
-sed 'n;d' FILE：显示奇数行；
+
 sed 'G' FILE：在原有的每行后方添加一个空白行；
 
 ```

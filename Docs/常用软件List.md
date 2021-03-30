@@ -1,10 +1,42 @@
 ## 软件List
 
+https://github.com/kongfl888/luci-app-adguardhome.git
+
+taskwarrior和timewarrior  taskwarrior
+
+> 是用来做任务管理的，你可以添加清单，设置优先级，tag,截至日期等。DOC  https://taskwarrior.org/docs/start.html
+> timewarrior是用来做时间记录的可以和taskwarrior结合使用。
+网站: taskwarrior https://taskwarrior.org/  timewarrior https://timewarrior.net/
+```
+task [add,list,done]
+```
+
+开发者边车
+https://github.com/docmirror/dev-sidecar/releases  
+https://gitee.com/docmirror/dev-sidecar/releases
+
+[7-zip](https://www.7-zip.org/) [下载](https://www.7-zip.org/a/7z1900-x64.exe)
+
+[Everything](https://www.voidtools.com/zh-cn/downloads/)[下载](https://www.voidtools.com/Everything-1.4.1.1005.x64-Setup.exe)
+
+[Winscp](https://winscp.net/eng/download.php)[下载](https://winscp.net/download/WinSCP-5.17.10-Setup.exe)
+
+[Tightvnc](https://www.tightvnc.com/download.php)(https://www.tightvnc.com/download/2.8.59/tightvnc-2.8.59-gpl-setup-64bit.msi)
+
+[Notepad++](https://notepad-plus-plus.org/)(https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.4/npp.7.9.4.Installer.x64.exe)
+
+[portableapps 开源软件集合平台]https://portableapps.com/downloading/?a=PortableApps.comPlatform&s=s&d=pa&n=The%20PortableApps.com%20Platform&f=PortableApps.com_Platform_Setup_17.1.1.paf.exe
+
+
 制作自己的字体 https://www.calligraphr.com/en/
 
 kmod-plog-port openwrt kernel mod 用于记录连接指定端口的进程 https://github.com/rufengsuixing/kmod-plog-port
 
-类似PIhold DNS 软件 https://github.com/AdguardTeam/AdGuardHome
+类似PIhold DNS 软件 记录Dns 请求 阻止DNS  https://github.com/AdguardTeam/AdGuardHome
+https://github.com/kongfl888/luci-app-adguardhome.git
+
+
+
 
 dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/
 https://github.com/arsenetar/dupeguru/releases/download/4.1.1/dupeGuru_win64_4.1.1.exe

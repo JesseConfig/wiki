@@ -1,8 +1,25 @@
 ## 软件List
 
-https://github.com/kongfl888/luci-app-adguardhome.git
+Upnp Dlna 播放
+https://github.com/hzeller/gmrender-resurrect.git
+https://github.com/hzeller/upnp-display.git
+http://gmrender.nongnu.org/
 
-taskwarrior和timewarrior  taskwarrior
+
+linux Web 控制台 仪表盘
+`sudo apt-get install cockpit`
+
+[web console ] ttyd,shellinabox,web-console
+
+> https://github.com/nickola/web-console
+
+> https://github.com/tsl0922/ttyd
+
+> https://github.com/kongfl888/luci-app-adguardhome.git
+
+> https://github.com/shellinabox/shellinabox
+
+[taskwarrior和timewarrior  taskwarrior]
 
 > 是用来做任务管理的，你可以添加清单，设置优先级，tag,截至日期等。DOC  https://taskwarrior.org/docs/start.html
 > timewarrior是用来做时间记录的可以和taskwarrior结合使用。

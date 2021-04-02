@@ -1,27 +1,31 @@
 ## 软件List
 
+
 终端中的中英文翻译引擎
 https://github.com/soimort/translate-shell
 https://www.soimort.org/translate-shell/
-`sudo apt-get install translate-shell`
+sudo apt-get install translate-shell
+
+
 
 Upnp Dlna 播放
 https://github.com/hzeller/gmrender-resurrect.git
 https://github.com/hzeller/upnp-display.git
 http://gmrender.nongnu.org/
 
+
 linux Web 控制台 仪表盘
 `sudo apt-get install cockpit`
 
 [web console ] ttyd,shellinabox,web-console
 
-https://github.com/nickola/web-console
+> https://github.com/nickola/web-console
 
-https://github.com/tsl0922/ttyd
+> https://github.com/tsl0922/ttyd
 
-https://github.com/kongfl888/luci-app-adguardhome.git
+> https://github.com/kongfl888/luci-app-adguardhome.git
 
-https://github.com/shellinabox/shellinabox
+> https://github.com/shellinabox/shellinabox
 
 [taskwarrior和timewarrior  taskwarrior]
 
@@ -34,7 +38,6 @@ task [add,list,done]
 
 开发者边车
 https://github.com/docmirror/dev-sidecar/releases  
-
 https://gitee.com/docmirror/dev-sidecar/releases
 
 [7-zip](https://www.7-zip.org/) [下载](https://www.7-zip.org/a/7z1900-x64.exe)
@@ -57,10 +60,9 @@ kmod-plog-port openwrt kernel mod 用于记录连接指定端口的进程 https:
 类似PIhold DNS 软件 记录Dns 请求 阻止DNS  https://github.com/AdguardTeam/AdGuardHome
 https://github.com/kongfl888/luci-app-adguardhome.git
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c79f9a576f812ae1450864ca58f0c2eba1ad3511
+
+
 dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/
 https://github.com/arsenetar/dupeguru/releases/download/4.1.1/dupeGuru_win64_4.1.1.exe
 

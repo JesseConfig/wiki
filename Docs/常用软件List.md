@@ -1,5 +1,13 @@
 ## 软件List
 
+
+终端中的中英文翻译引擎
+https://github.com/soimort/translate-shell
+https://www.soimort.org/translate-shell/
+sudo apt-get install translate-shell
+
+
+
 Upnp Dlna 播放
 https://github.com/hzeller/gmrender-resurrect.git
 https://github.com/hzeller/upnp-display.git

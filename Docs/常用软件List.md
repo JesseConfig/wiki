@@ -19,13 +19,13 @@ linux Web 控制台 仪表盘
 
 [web console ] ttyd,shellinabox,web-console
 
-> https://github.com/nickola/web-console
+https://github.com/nickola/web-console
 
-> https://github.com/tsl0922/ttyd
+https://github.com/tsl0922/ttyd
 
-> https://github.com/kongfl888/luci-app-adguardhome.git
+https://github.com/kongfl888/luci-app-adguardhome.git
 
-> https://github.com/shellinabox/shellinabox
+https://github.com/shellinabox/shellinabox
 
 [taskwarrior和timewarrior  taskwarrior]
 
@@ -38,6 +38,7 @@ task [add,list,done]
 
 开发者边车
 https://github.com/docmirror/dev-sidecar/releases  
+
 https://gitee.com/docmirror/dev-sidecar/releases
 
 [7-zip](https://www.7-zip.org/) [下载](https://www.7-zip.org/a/7z1900-x64.exe)
@@ -59,8 +60,6 @@ kmod-plog-port openwrt kernel mod 用于记录连接指定端口的进程 https:
 
 类似PIhold DNS 软件 记录Dns 请求 阻止DNS  https://github.com/AdguardTeam/AdGuardHome
 https://github.com/kongfl888/luci-app-adguardhome.git
-
-
 
 
 dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/

@@ -57,10 +57,6 @@ kmod-plog-port openwrt kernel mod 用于记录连接指定端口的进程 https:
 类似PIhold DNS 软件 记录Dns 请求 阻止DNS  https://github.com/AdguardTeam/AdGuardHome
 https://github.com/kongfl888/luci-app-adguardhome.git
 
-<<<<<<< HEAD
-
-=======
->>>>>>> c79f9a576f812ae1450864ca58f0c2eba1ad3511
 dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/
 https://github.com/arsenetar/dupeguru/releases/download/4.1.1/dupeGuru_win64_4.1.1.exe
 

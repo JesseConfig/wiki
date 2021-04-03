@@ -1,5 +1,8 @@
 ## 软件List
 
+同类网站搜索 引擎
+https://cn.similarsites.com/
+
 终端中的中英文翻译引擎
 https://github.com/soimort/translate-shell
 https://www.soimort.org/translate-shell/

@@ -1,5 +1,5 @@
-﻿---
-<span style="float: left; display: contents;"><i class="icon-download-alt icon-1x"></i> Markdown 源文件下载</summary> / 链接未知</span><span style="float: right; display: block;">本文固定链接 https://ericp.cn/cmd</span>
+﻿
+本文固定链接 https://ericp.cn/cmd</span>
 # Cmd Markdown 公式指导手册
 
 <p style="margin-top: 100px"> </p>
@@ -7,7 +7,7 @@
 -  新增内容：[戴帽符号](#7戴帽符号)
 -  修补内容：[如何输入一个交换图表](#1如何输入一个交换图表) / [在字符间加入空格](#3在字符间加入空格)<span style="float: right; display: block;"><i class="icon-edit icon-1x"></i> Ver. 2020-10-03</span>
 
----
+
 
 > 本文为 MathJax 在 [Cmd Markdown](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown) 环境下的常用语法指引。Cmd Markdown 编辑阅读器支持 $\LaTeX$ 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$，访问 [MathJax](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) 以参考更多使用方法。
 
@@ -15,7 +15,7 @@
 
 [TOC]
 
----
+
 
 # 一、公式使用参考
 
@@ -118,10 +118,10 @@ $$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
 - 例子：
 
 ```
-$$ \left. \frac{ { \rm d }u }{{ \rm d }x} \right| _{x=0} $$
+$$ \left. \frac\{\{ \rm d }u }\{\{ \rm d }x} \right| _{x=0} $$
 ```
 
-- 显示：$$ \left. \frac{{ \rm d }u}{{ \rm d }x} \right| _{x=0} $$
+- 显示：$$ \left. \frac\{\{ \rm d }u}\{\{ \rm d }x} \right| _{x=0} $$
 
 ##4．如何输入分数
 
@@ -1491,7 +1491,7 @@ Use `\,`, to insert a thin space before differentials; without this $\TeX$ will 
     \iiint_V f(x){\rm d}z {\rm d}y {\rm d}x & \iiint_{\boldsymbol{V}} f(x)\,{\rm d}z\,{\rm d}y\,{\rm d}x \\
 \end{array}
 
----
+
 
 感谢您花费时间阅读这份指导手册，本手册内容可能有疏漏之处，欢迎更改指正。
 更多语法请参见：[Cmd Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)，[Cmd Markdown 高阶语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册)。

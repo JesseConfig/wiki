@@ -104,6 +104,7 @@ $$ \sideset{^1_2}{^3_4}\bigotimes \quad or \quad {^1_2}\bigotimes {^3_4} $$
 |\lVert|$\lVert$|\rVert|$\rVert$|
 
 > **@lymd** 有时，我们需要在行内使用两个竖杠表示向量间的某种空间距离，可以这样写
+
 <span style="text-align: center; display: block"> `\lVert \boldsymbol{X}_i - \boldsymbol{S}_j \rVert^2` → $\lVert \boldsymbol{X}_i - \boldsymbol{S}_j \rVert^2$ </span>
 
 - 例子：
@@ -115,9 +116,11 @@ $$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
 有时要用 `\left.` 或 `\right.` 进行匹配而不显示本身。
 
 - 例子：
+
 ```
 $$ \left. \frac{ { \rm d }u }{{ \rm d }x} \right| _{x=0} $$
 ```
+
 - 显示：$$ \left. \frac{{ \rm d }u}{{ \rm d }x} \right| _{x=0} $$
 
 ##4．如何输入分数

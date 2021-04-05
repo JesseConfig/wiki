@@ -1,5 +1,7 @@
 ## 软件List
 
+翻译编辑器 https://poedit.net/
+
 同类网站搜索 引擎
 https://cn.similarsites.com/
 

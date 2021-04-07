@@ -1,5 +1,8 @@
 ## 软件List
 
+
+Python Mu IDE https://codewith.mu/ https://codewith.mu/en/download
+
 翻译编辑器 https://poedit.net/
 
 同类网站搜索 引擎

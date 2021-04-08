@@ -1,5 +1,9 @@
 ## 软件List
+ 
+MQTT X  桌面客户端工具 https://mqttx.app/cn/ https://github.com/emqx/MQTTX
 
+蓝牙低功耗扫描和探索工具 nRF Connect https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/Download#infotabs
+蓝牙低功耗扫描和探索工具 nRF Connect https://github.com/NordicSemiconductor/Android-nRF-Connect/releases/tag/v4.24.3
 
 Python Mu IDE https://codewith.mu/ https://codewith.mu/en/download
 

@@ -1,4 +1,16 @@
 ## 软件List
+
+国家医保局 人力资源社会保障部关于印发《国家基本医疗保险、工伤保险和生育保险药品目录(2020年)》的通知
+http://www.nhsa.gov.cn/art/2020/12/28/art_37_4220.html
+
+国家基本药物目录
+http://zs.kaipuyun.cn/s?searchWord=%25E5%259B%25BD%25E5%25AE%25B6%25E5%259F%25BA%25E6%259C%25AC%25E8%258D%25AF%25E7%2589%25A9%25E7%259B%25AE%25E5%25BD%2595&column=%25E5%2585%25A8%25E9%2583%25A8&wordPlace=0&orderBy=0&startTime=&endTime=&pageSize=10&pageNum=0&timeStamp=0&siteCode=bm24000006&sonSiteCode=&checkHandle=1&searchSource=0&strFileType=&govWorkBean=%257B%257D&sonSiteCode=&areaSearchFlag=0&secondSearchWords=&topical=&docName=&label=&countKey=0&uc=0&left_right_index=0
+
+世卫组织基本药物标准清单 第20版 基本药物
+https://www.who.int/topics/essential_medicines/zh/
+
+
+mouse wihtout bordes 无边界鼠标鼠标一个鼠标和键盘控制多达四台计算机 https://www.microsoft.com/en-us/download/details.aspx?id=35460
  
 MQTT X  桌面客户端工具 https://mqttx.app/cn/ https://github.com/emqx/MQTTX
 

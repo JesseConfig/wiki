@@ -1,5 +1,10 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
+
+chmlib CHM格式文件的库 http://www.jedrea.com/chmlib/
+
+CHM电子书或CHM帮助文件快速制作工具  http://www.etextwizard.com/cn/index.html
+
 https://en-yinbiao.xiao84.com/biao/
 
 

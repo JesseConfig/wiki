@@ -1,6 +1,12 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
+网易云 音乐下载器 https://github.com/SolomonLeon/netease-music-downloader
 
+pip install -U pymusic-dl youtube-dl 
+
+
+文件删除恢复 https://www.ccleaner.com/recuva/download
+CCleaner免费的PC清洁器 https://www.ccleaner.com/ccleaner/download
 chmlib CHM格式文件的库 http://www.jedrea.com/chmlib/
 
 CHM电子书或CHM帮助文件快速制作工具  http://www.etextwizard.com/cn/index.html

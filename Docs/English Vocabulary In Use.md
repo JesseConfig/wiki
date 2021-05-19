@@ -218,7 +218,54 @@ People have blonde(金色的) or dark hair(黑发) [NOT hairs].
 
 My grandmother is 97(ninety-seven). She’s very old. 
 My sister is 14(fourteen). She’s young,
- but would like to be older. 
+ but would(想) like to be older. 
 My father is 56(fifty-six). He’s middle-aged(中年),
  but would like to be younger!
 This hospital is for elderly people(老年人). (more polite than old)
+
+## D.Expressions(表达式)
+A: How tall is Bettina / Tom?  (贝蒂娜/汤姆多高?)
+B: She’s(她) 1.85 metres tall. / He’s(他) 1.48 metres tall.
+A: How heavy are you? / How much do you weigh? 
+B: I weigh 62(sixty-two) kilos(公斤) / 74(seventy-four) kilos, etc.
+A: How old is he? 
+B: He’s 84.(eighty-four)
+A: What does Gemma / your sister look like? (看起来)
+B: She’s tall and dark. She’s very pretty.
+
+
+Tip
+Some of the words on this page are a little negative(有点消极), 
+so be careful(仔细的，小心的) how you use them.
+It’s better not to say to someone:
+‘You are fat / thin / ugly / old.’Expressions
+
+Over to you
+
+Write down the names of three people you know. Then write about their:
+• height (tall, short, medium height) • eyes (colour)
+• hair (colour, long, short, beard) • looks (pretty, average-looking, etc.)
+
+# 6 Health and illness (健康与疾病)
+## A.How are you today?
+I’m very well(非常好), thanks.
+I’m fine(好的), thanks.
+I don’t feel(感觉) very well. 
+I must go home and rest.  我必须回家休息
+(I’ll probably(大概；或许；很可能) be OK tomorrow(在明天).)
+I feel ill.
+Can you get a doctor(医生), please? (Perhaps(或许) it’s a serious problem.)
+That fish(鱼) was bad(坏的). 
+I think I’m going to be sick! (I want to vomit.(呕吐))
+我想我要吐了!
+
+## B.Everyday problems每天的问题
+
+Have you got an aspirin? (阿司匹林)
+I’ve got a headache. /'hedeIk/
+I’ve got toothache. /ˈtuːθeɪk/ I need to go to the dentist.
+I’m going to bed with a hot drink. I’ve got a cold.
+Problems people have for many years / all their lives
+I get hay fever every summer, from flowers and grass. 
+I sneeze all day. /sniːz/
+My little brother has asthma; sometimes he can’t breathe. /ˈæsmə/

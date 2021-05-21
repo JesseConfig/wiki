@@ -1,5 +1,11 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
+Sysinternals实用程序
+https://docs.microsoft.com/zh-cn/sysinternals/downloads/
+
+Sysinternals Process Explorer 进程管理浏览器
+https://download.sysinternals.com/files/ProcessExplorer.zip
+
 网易云 音乐下载器 https://github.com/SolomonLeon/netease-music-downloader
 
 pip install -U pymusic-dl youtube-dl 

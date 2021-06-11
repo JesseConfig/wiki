@@ -1,5 +1,22 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
+
+
+Ag 类似于 ack 的代码搜索工具，但速度更快。
+https://github.com/ggreer/the_silver_searcher
+
+Rg(ripgrep) 可替代grep的工具
+https://github.com/BurntSushi/ripgrep/releases/tag/12.1.1
+
+- [Ack](https://github.com/petdance/ack3) - 比 grep 更好。没有 Ack，Ag 就不会存在。
+- [确认.vim](https://github.com/mileszs/ack.vim)
+- [Exuberant Ctags](http://ctags.sourceforge.net/) - 比 Ag 快，但它事先建立了索引。适用于*非常*大的代码库。
+- [Git-grep](http://git-scm.com/docs/git-grep) - 与 Ag 一样快，但仅适用于 git 存储库。
+- [fzf](https://github.com/junegunn/fzf) - 命令行模糊查找器
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [Sack](https://github.com/sampson-chen/sack) - 包装 Ack 和 Ag 的实用程序。它消除了搜索和打开匹配文件的大量重复。
+
+
 Sysinternals实用程序
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/
 

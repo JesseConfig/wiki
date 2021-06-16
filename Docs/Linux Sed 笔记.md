@@ -225,3 +225,14 @@ sed '/^[0-9].[0-9]\{1,\}$/{N;s|\n| |g}'
 sed '{s/^[ \t]*//g'}' | \
 
 sed '{s/^a/- [ ] (A)/g;s/^b/- [ ] (B)/g;s/^c/- [ ] (C)/g;s/^d/- [ ] (D)/g;s/^e/- [ ] (E)/g;s/^f/- [ ] (F)/g}'
+
+
+sed -n '/<a /p' forum-index-fid-957.htm   | sed 's#<a \([^>]*\)>#--SYN--\1--FIN--#g; s/<//g; s/>//g' | sed 's/--SYN--/</g; s/--FIN--[^<]*</></g; s/[^<]*</</; s/--FIN--.*/>/;' | sed "s#<[^>]*href=\([^a-zA-Z>]*[^ >]*\)[^>]*># @\1@#g; s/<[^>]*>//g; s/'//g; s/@/ /g" >a.tzt
+提取href= 
+
+从html文件中提取超链接URL的shell脚本
+sed -n '/<a /p' html.txt | sed 's#<a \([^>]*\)>#--SYN--\1--FIN--#g; s/<//g; s/>//g' | \
+sed 's/--SYN--/</g; s/--FIN--[^<]*</></g; s/[^<]*</</; s/--FIN--.*/>/;' | \
+sed "s#<[^>]*href=\([^a-zA-Z>]*http://[^ >]*\)[^>]*># @\1@#g; s/<[^>]*>//g; s/'//g; s/@/ /g" > url.txt
+
+这里提取的是 <a href="http://domain/path/to/html.html"> 中的 http://domain/path/to/html.html

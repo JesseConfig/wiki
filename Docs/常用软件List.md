@@ -1,71 +1,75 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
-Sysinternals实用程序
-https://docs.microsoft.com/zh-cn/sysinternals/downloads/
 
-Sysinternals Process Explorer 进程管理浏览器
-https://download.sysinternals.com/files/ProcessExplorer.zip
+[Sandboxie-Plus WINDOWS基于沙箱的开源隔离软件](https://sandboxie-plus.com/downloads/)
 
-网易云 音乐下载器 https://github.com/SolomonLeon/netease-music-downloader
+[windows 手机平板 扩展显示 电脑第二屏幕](https://spacedesk.net/)
 
-pip install -U pymusic-dl youtube-dl 
+[Sysinternals实用程序](https://docs.microsoft.com/zh-cn/sysinternals/downloads/)
 
+[Sysinternals Process Explorer 进程管理浏览器](https://download.sysinternals.com/files/ProcessExplorer.zip)
 
-文件删除恢复 https://www.ccleaner.com/recuva/download
-CCleaner免费的PC清洁器 https://www.ccleaner.com/ccleaner/download
-chmlib CHM格式文件的库 http://www.jedrea.com/chmlib/
+[网易云 音乐下载器](https://github.com/SolomonLeon/netease-music-downloader)
 
-CHM电子书或CHM帮助文件快速制作工具  http://www.etextwizard.com/cn/index.html
+`pip install -U pymusic-dl youtube-dl `
 
-https://en-yinbiao.xiao84.com/biao/
+[文件删除恢复](https://www.ccleaner.com/recuva/download/)
 
 
-国家医保局 人力资源社会保障部关于印发《国家基本医疗保险、工伤保险和生育保险药品目录(2020年)》的通知
-http://www.nhsa.gov.cn/art/2020/12/28/art_37_4220.html
+[CCleaner免费的PC清洁器] (https://www.ccleaner.com/ccleaner/download)
 
-国家基本药物目录
-http://zs.kaipuyun.cn/s?searchWord=%25E5%259B%25BD%25E5%25AE%25B6%25E5%259F%25BA%25E6%259C%25AC%25E8%258D%25AF%25E7%2589%25A9%25E7%259B%25AE%25E5%25BD%2595&column=%25E5%2585%25A8%25E9%2583%25A8&wordPlace=0&orderBy=0&startTime=&endTime=&pageSize=10&pageNum=0&timeStamp=0&siteCode=bm24000006&sonSiteCode=&checkHandle=1&searchSource=0&strFileType=&govWorkBean=%257B%257D&sonSiteCode=&areaSearchFlag=0&secondSearchWords=&topical=&docName=&label=&countKey=0&uc=0&left_right_index=0
+[chmlib CHM格式文件的库] (http://www.jedrea.com/chmlib/)
 
-世卫组织基本药物标准清单 第20版 基本药物
-https://www.who.int/topics/essential_medicines/zh/
+[CHM电子书或CHM帮助文件快速制作工具](http://www.etextwizard.com/cn/index.html)
+
+[https://en-yinbiao.xiao84.com/biao/]
+
+[国家医保局 人力资源社会保障部关于印发《国家基本医疗保险、工伤保险和生育保险药品目录(2020年)》的通知](http://www.nhsa.gov.cn/art/2020/12/28/art_37_4220.html)
+
+[国家基本药物目录](http://zs.kaipuyun.cn/s?searchWord=%25E5%259B%25BD%25E5%25AE%25B6%25E5%259F%25BA%25E6%259C%25AC%25E8%258D%25AF%25E7%2589%25A9%25E7%259B%25AE%25E5%25BD%2595&column=%25E5%2585%25A8%25E9%2583%25A8&wordPlace=0&orderBy=0&startTime=&endTime=&pageSize=10&pageNum=0&timeStamp=0&siteCode=bm24000006&sonSiteCode=&checkHandle=1&searchSource=0&strFileType=&govWorkBean=%257B%257D&sonSiteCode=&areaSearchFlag=0&secondSearchWords=&topical=&docName=&label=&countKey=0&uc=0&left_right_index=0)
+
+[世卫组织基本药物标准清单 第20版 基本药物](https://www.who.int/topics/essential_medicines/zh/)
 
 
-mouse wihtout bordes 无边界鼠标鼠标一个鼠标和键盘控制多达四台计算机 https://www.microsoft.com/en-us/download/details.aspx?id=35460
+[mouse wihtout bordes 无边界鼠标鼠标一个鼠标和键盘控制多达四台计算机]( https://www.microsoft.com/en-us/download/details.aspx?id=35460)
  
-MQTT X  桌面客户端工具 https://mqttx.app/cn/ https://github.com/emqx/MQTTX
+[MQTT X  桌面客户端工具] (https://mqttx.app/cn/ https://github.com/emqx/MQTTX)
 
-蓝牙低功耗扫描和探索工具 nRF Connect https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/Download#infotabs
-蓝牙低功耗扫描和探索工具 nRF Connect https://github.com/NordicSemiconductor/Android-nRF-Connect/releases/tag/v4.24.3
+[蓝牙低功耗扫描和探索工具 nRF Connect]( https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/Download#infotabs)
 
-Python Mu IDE https://codewith.mu/ https://codewith.mu/en/download
+[蓝牙低功耗扫描和探索工具 nRF Connect]( https://github.com/NordicSemiconductor/Android-nRF-Connect/releases/tag/v4.24.3)
 
-翻译编辑器 https://poedit.net/
 
-同类网站搜索 引擎
-https://cn.similarsites.com/
+[Python Mu IDE ](https://codewith.mu/ https://codewith.mu/en/download)
 
-终端中的中英文翻译引擎
-https://github.com/soimort/translate-shell
-https://www.soimort.org/translate-shell/
+[翻译编辑器 ](https://poedit.net/)
+
+[同类网站搜索 引擎](https://cn.similarsites.com/)
+
+[终端中的中英文翻译引擎](https://github.com/soimort/translate-shell)
+
+[](https://www.soimort.org/translate-shell/)
+
 `sudo apt-get install translate-shell`
 
-Upnp Dlna 播放
+[Upnp Dlna 播放](
 https://github.com/hzeller/gmrender-resurrect.git
 https://github.com/hzeller/upnp-display.git
-http://gmrender.nongnu.org/
+http://gmrender.nongnu.org/)
 
-linux Web 控制台 仪表盘
+[linux Web 控制台 仪表盘]
+
 `sudo apt-get install cockpit`
 
 [web console ] ttyd,shellinabox,web-console
 
-https://github.com/nickola/web-console
+[](https://github.com/nickola/web-console)
 
-https://github.com/tsl0922/ttyd
+[](https://github.com/tsl0922/ttyd)
 
-https://github.com/kongfl888/luci-app-adguardhome.git
+[](https://github.com/kongfl888/luci-app-adguardhome.git)
 
-https://github.com/shellinabox/shellinabox
+[](https://github.com/shellinabox/shellinabox)
 
 [taskwarrior和timewarrior  taskwarrior]
 
@@ -76,10 +80,9 @@ https://github.com/shellinabox/shellinabox
 task [add,list,done]
 ```
 
-开发者边车
-https://github.com/docmirror/dev-sidecar/releases  
+[开发者边车](https://github.com/docmirror/dev-sidecar/releases)
 
-https://gitee.com/docmirror/dev-sidecar/releases
+[](https://gitee.com/docmirror/dev-sidecar/releases)
 
 [7-zip](https://www.7-zip.org/) [下载](https://www.7-zip.org/a/7z1900-x64.exe)
 
@@ -89,25 +92,25 @@ https://gitee.com/docmirror/dev-sidecar/releases
 
 [Tightvnc](https://www.tightvnc.com/download.php)(https://www.tightvnc.com/download/2.8.59/tightvnc-2.8.59-gpl-setup-64bit.msi)
 
-[Notepad++](https://notepad-plus-plus.org/)(https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.4/npp.7.9.4.Installer.x64.exe)
+[Notepad++](https://notepad-plus-plus.org/)
+[](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.4/npp.7.9.4.Installer.x64.exe)
 
-[portableapps 开源软件集合平台]https://portableapps.com/downloading/?a=PortableApps.comPlatform&s=s&d=pa&n=The%20PortableApps.com%20Platform&f=PortableApps.com_Platform_Setup_17.1.1.paf.exe
+[portableapps 开源软件集合平台](https://portableapps.com/downloading/?a=PortableApps.comPlatform&s=s&d=pa&n=The%20PortableApps.com%20Platform&f=PortableApps.com_Platform_Setup_17.1.1.paf.exe)
 
 
-制作自己的字体 https://www.calligraphr.com/en/
+[制作自己的字体]( https://www.calligraphr.com/en/)
 
-kmod-plog-port openwrt kernel mod 用于记录连接指定端口的进程 https://github.com/rufengsuixing/kmod-plog-port
+[kmod-plog-port openwrt kernel mod 用于记录连接指定端口的进程]( https://github.com/rufengsuixing/kmod-plog-port)
 
-类似PIhold DNS 软件 记录Dns 请求 阻止DNS  https://github.com/AdguardTeam/AdGuardHome
-https://github.com/kongfl888/luci-app-adguardhome.git
+[类似PIhold DNS 软件 记录Dns 请求 阻止DNS ] (https://github.com/AdguardTeam/AdGuardHome)
+[](https://github.com/kongfl888/luci-app-adguardhome.git)
 
-dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/
-https://github.com/arsenetar/dupeguru/releases/download/4.1.1/dupeGuru_win64_4.1.1.exe
+[dupeGuru 用于在系统中查找重复文件 https://dupeguru.voltaicideas.net/](https://github.com/arsenetar/dupeguru/releases/)
 
-查找重复文件
-https://www.clonefileschecker.com/feature.html
+[查找重复文件](https://www.clonefileschecker.com/feature.html)
 
-设备MAC公开列表public listing
+[设备MAC公开列表public listing] ()
+
 ```
 https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
 http://standards-oui.ieee.org/oui/oui.csv
@@ -121,7 +124,7 @@ http://standards-oui.ieee.org/bopid/opid.csv
 http://standards-oui.ieee.org/iab/iab.csv
 ```
 
-使用CutyCapt将HTML转换成PNG  
+[使用CutyCapt将HTML转换成PNG]()
 ```
 sudo apt-get install xvfb
 sudo apt-get install cutycapt
@@ -130,13 +133,11 @@ cutycapt --url=http://www.cnn.com --out=cnn.pdf
 cutycapt --url=http://www.cnn.com --out=cnn.png
 ```
 
-启动EFISTUB内核的UEFI 引导管理器 http://www.rodsbooks.com/refind/ https://wiki.archlinux.org/index.php/REFInd
+[启动EFISTUB内核的UEFI 引导管理器]( http://www.rodsbooks.com/refind/ https://wiki.archlinux.org/index.php/REFInd)
 
-Visual Studio https://code.visualstudio.com/download#
+[Visual Studio] (https://code.visualstudio.com/download#)
 
-SDCC是可重定目标的，优化的标准C（ANSI C89，ISO C99，ISO C11）编译器套件，针对的是基于Intel MCS51的微处理器（8031、8032、8051、8052等）， Maxim（以前为Dallas），DS80C390变体， 飞思卡尔（以前基于Motorola）基于HC08 （hc08，s08）
-基于Zilog Z80的MCU （z80，z180，gbz80，Rabbit 2000/3000，Rabbit 3000A，TLCS-90），Padauk（pdk14，pdk15）和 STMicroelectronics STM8。支持Padauk pdk13目标的工作正在进行中；无需 维护Microchip PIC16和PIC18目标。SDCC可以重新定位到其他微处理器
-http://sdcc.sourceforge.net/index.php#Download
+[SDCC是可重定目标的，优化的标准C（ANSI C89，ISO C99，ISO C11）编译器套件，针对的是基于Intel MCS51的微处理器（8031、8032、8051、8052等）， Maxim（以前为Dallas），DS80C390变体， 飞思卡尔（以前基于Motorola）基于HC08 （hc08，s08）基于Zilog Z80的MCU （z80，z180，gbz80，Rabbit 2000/3000，Rabbit 3000A，TLCS-90），Padauk（pdk14，pdk15）和 STMicroelectronics STM8。支持Padauk pdk13目标的工作正在进行中；无需 维护Microchip PIC16和PIC18目标。SDCC可以重新定位到其他微处理器](http://sdcc.sourceforge.net/index.php#Download)
 
 UltraVNC是功能强大，易于使用且免费的-远程PC访问软件 https://www.uvnc.com/ ![](https://www.uvnc.com/images/bg_logo2.gif)
 

@@ -262,9 +262,11 @@ I think I’m going to be sick! (I want to vomit.(呕吐))
 ## B.Everyday problems每天的问题
 
 Have you got an aspirin? (阿司匹林)
-I’ve got a headache. /'hedeIk/
-I’ve got toothache. /ˈtuːθeɪk/ I need to go to the dentist.
+I’ve got a headache（头痛）. /'hedeIk/
+I’ve got toothache（牙痛）. /ˈtuːθeɪk/ 
+I need to go to the dentist.（牙科医生）
 I’m going to bed with a hot drink. I’ve got a cold.
+
 Problems people have for many years / all their lives
 I get hay fever every summer, from flowers and grass. 
 I sneeze all day. /sniːz/

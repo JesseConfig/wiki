@@ -1,5 +1,7 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
+[cwRsync是Windows 客户端GUI的一个包含Rsync的包装](https://www.itefix.net/cwrsync)
+
 linux 列出包大小空间的程序
 Dpigs是一个Debian工具
 Wajig sudo apt-get install wajig

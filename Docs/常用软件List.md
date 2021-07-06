@@ -1,6 +1,10 @@
 ## 软件List <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NV9QRkZQVlpbU1xSdUREG1ZaWA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
 
+https://music.163.com/api/search/pc?s=lovelove&offset=0&limit=1&type=1
+https://music.163.com/api/song/lyric?id=500177505&lv=1&kv=1&tv=-1
+
+
 [cddb 服务](https://gnudb.org/index.php)
 
 [Mp3tag WINDWOS编辑音频文件的元数据。](https://www.mp3tag.de/en/)

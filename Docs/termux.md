@@ -94,3 +94,7 @@ Go to script folder: cd ubuntu-in-termux
 Give execution permission: chmod +x ubuntu.sh
 Run the script: ./ubuntu.sh -y
 Now just start ubuntu: ./startubuntu.sh
+
+git clone https://github.com/sqlsec/termux-install-linux
+cd termux-install-linux
+python termux-linux-install.py

@@ -359,9 +359,7 @@ My suit is new but these trousers are old. Her jeans / shorts / tights are blue.
 Note: You say: a pair of trousers / shorts / glasses, etc.
 注释:你说:一条裤子/一条短裤/一副眼镜等。
 
-### C
-
-Verbs 动词（verb的复数）
+### C Verbs 动词（verb的复数）
 
 You wear(穿) clothes but you carry(拿) things.(事物（thing的复数形式))
 你穿衣服，但你拿东西。
@@ -395,43 +393,50 @@ You put clothes on but you take clothes off
 When you get dressed in the morning, say to
 你早上穿好衣服，就说
 [NOT put clothes off].
-[不是脱衣服]。
+[不是不脱衣服]。
 yourself Now I’m putting on my socks. Now I’m
 现在我正在穿袜子。现在我
 putting on my shoes and so on.
 现在我正在穿袜子。现在我
 
-## 5 Describingpeople
+## 5 Describing people 描述人 描述人物
 
-A
+### A Height /haIt/ and weight /weIt/
+高度 体重
 
-Height /haIt/ and weight /weIt/
+Bettina Schwenke 贝蒂娜 施文克
 
-Bettina Schwenke
+Bettina Schwenke is a very tall(高的) woman.
+贝蒂娜·施文克 非常高的女人
 
-Bettina Schwenke is a very tall woman.
-
-Tom Jakes
+Tom Jakes 汤姆·杰克
 
 Tom Jakes is quite short.
+汤姆·杰克很矮
 
-If you aren’t tall or short, you are of medium height.
+If you aren’t(不是么 Aren't是are not的缩写 ) tall or short, you are of medium(中等) height.
 
-Agata Sanchez is really slim.
+如果你不高也不矮，你是中等身高。
 
-I was very thin when I was in hospital.
+Agata Sanchez is really(实际上，事实上,真的) slim(苗条的).
+阿加塔·桑切斯真的很瘦
+
+I was very thin when I was in hospital(医院).
+我住院时很瘦
 
 [slim is more polite than thin]
+[slim比thin更有礼貌]
 
 Agata Sanchez
+阿加塔·桑切斯
 
 The doctor said I am overweight. [weigh too much]
+医生说我超重了[太重了]
 
 Their cat is very fat. It needs to go on a diet.
+他们的猫很肥。它需要节食。
 
-B
-
-Face and head
+### B Face and head
 
 Suri has dark skin and dark hair. She has brown eyes.
 
@@ -467,7 +472,7 @@ Bob’s an ugly man. [ugly = the opposite of beautiful or good-looking]
 
 I’m not ugly or beautiful, I’m just average-looking!
 
-C
+### C
 
 Age
 
@@ -631,7 +636,7 @@ English Vocabulary in Use Elementary
 
 6 Healthandillness
 
-A
+### A
 
 How are you today?
 
@@ -649,7 +654,7 @@ I’ve got toothache. /ˈtuːθeɪk/ I need to go to the dentist.
 
 I’m going to bed with a hot drink. I’ve got a cold.
 
-C
+### C
 
 Problems people have for many years / all their lives
 
@@ -657,7 +662,7 @@ I get hay fever every summer, from flowers and grass. I sneeze all day. /sniːz/
 
 My little brother has asthma; sometimes he can’t breathe. /ˈæsmə/
 
-D
+### D
 
 Illnesses in hot / tropical countries
 
@@ -671,7 +676,7 @@ The drinking water was bad, and many children
 
 had cholera. /ˈkɒlərə/
 
-E
+### E
 
 Serious illnesses
 
@@ -689,7 +694,7 @@ My father went to hospital when he
 
 had a heart attack.
 
-F
+### F
 
 Expressions
 
@@ -807,7 +812,7 @@ English Vocabulary in Use Elementary
 
 7 Feelings
 
-A
+### A
 
 Love, like and hate
 
@@ -835,7 +840,7 @@ I don’t like horror films.
 
 I hate spiders.
 
-B
+### B
 
 Happy, sad and tired
 
@@ -867,7 +872,7 @@ Common mistakes
 
 I am very happy about your news [NOT I am very happy for your news]. BUT You did very well in your exam – I’m very happy for you.
 
-C
+### C
 
 Prefer, hope and want
 
@@ -887,7 +892,7 @@ Note: I want my mother to buy a new car.
 
 that you help me].
 
-D
+### D
 
 Expressions
 
@@ -1037,7 +1042,7 @@ English Vocabulary in Use Elementary
 
 8 Conversations 1: Greetings and wishes
 
-A
+### A
 
 Every day
 
@@ -1075,7 +1080,7 @@ Sorry!
 
 Bless you!
 
-B
+### B
 
 Special days
 
@@ -1229,7 +1234,7 @@ English Vocabulary in Use Elementary
 
 9 Conversations 2: Useful words and expressions
 
-A
+### A
 
 Words
 
@@ -1283,7 +1288,7 @@ Common mistakes
 
 Actually is a false friend in some languages - in English it means ‘in reality’ NOT ‘now’.
 
-B
+### B
 
 Expressions
 
@@ -1449,7 +1454,7 @@ English Vocabulary in Use Elementary
 
 10 Food and drink
 
-A
+### A
 
 Everyday food
 
@@ -1469,7 +1474,7 @@ Common mistakes
 
 Can I have some bread? [NOT Can I have a bread?]
 
-B
+### B
 
 Fast food
 
@@ -1479,7 +1484,7 @@ Fish and chips is popular in Britain, Australia and
 
 New Zealand.
 
-C
+### C
 
 Fruit /fruːt/ and vegetables /ˈvedʒtəbəlz/
 
@@ -1527,7 +1532,7 @@ Common mistakes
 
 I love fruit [NOT I love fruits].
 
-D
+### D
 
 Drinks
 
@@ -1649,7 +1654,7 @@ English Vocabulary in Use Elementary
 
 11 In the kitchen
 
-A
+### A
 
 What’s in the kitchen?
 
@@ -1677,7 +1682,7 @@ cooker
 
 dishwasher
 
-B
+### B
 
 Things we use in the kitchen
 
@@ -1699,7 +1704,7 @@ cloth
 
 liquid
 
-C
+### C
 
 Things we use for eating and drinking
 
@@ -1721,7 +1726,7 @@ mug
 
 plate
 
-D
+### D
 
 Expressions
 
@@ -1839,7 +1844,7 @@ English Vocabulary in Use Elementary
 
 12 In the bedroom and bathroom
 
-A
+### A
 
 Bedroom
 
@@ -1865,7 +1870,7 @@ bedside table
 
 hairbrush
 
-B
+### B
 
 Bathroom
 
@@ -1891,7 +1896,7 @@ shampoo
 
 shower gel
 
-C
+### C
 
 Emma’s routine
 
@@ -2037,7 +2042,7 @@ English Vocabulary in Use Elementary
 
 13 In the living room
 
-A
+### A
 
 Things in the living room
 
@@ -2085,7 +2090,7 @@ carpet
 
 chair
 
-B
+### B
 
 Useful verbs
 
@@ -2103,7 +2108,7 @@ book.
 
 [rest and do nothing]
 
-C
+### C
 
 Expressions
 
@@ -2231,7 +2236,7 @@ English Vocabulary in Use Elementary
 
 14 Jobs
 
-A
+### A
 
 What’s his/her job?
 
@@ -2253,7 +2258,7 @@ hairdresser
 
 engineer
 
-B
+### B
 
 Jobs in the town
 
@@ -2265,7 +2270,7 @@ librarian
 
 bank clerk /klA:k/
 
-C
+### C
 
 Expressions
 
@@ -2425,7 +2430,7 @@ English Vocabulary in Use Elementary
 
 15 At school and university
 
-A
+### A
 
 Subjects
 
@@ -2461,7 +2466,7 @@ communication
 
 technology)
 
-B
+### B
 
 Useful things
 
@@ -2505,7 +2510,7 @@ whiteboard
 
 computer
 
-C
+### C
 
 Expressions
 
@@ -2627,7 +2632,7 @@ English Vocabulary in Use Elementary
 
 16 Communications
 
-A
+### A
 
 Letters
 
@@ -2647,7 +2652,7 @@ Don’t forget to put a stamp on the envelope.
 
 Don’t forget to post the letters.
 
-B
+### B
 
 Email and Internet
 
@@ -2691,7 +2696,7 @@ double six five ...)
 
 He’s not answering his phone. I’ll leave a voicemail and I’ll text him / send him a text (message).
 
-D
+### D
 
 Expressions
 
@@ -2835,7 +2840,7 @@ English Vocabulary in Use Elementary
 
 17 Your phone
 
-A
+### A
 
 Parts of a phone
 
@@ -2855,7 +2860,7 @@ charger
 
 SIM card
 
-B
+### B
 
 Using a smartphone
 
@@ -2873,7 +2878,7 @@ in English.
 
 While she was on holiday, Kelly called her family every day.
 
-C
+### C
 
 Expressions
 
@@ -3013,7 +3018,7 @@ English Vocabulary in Use Elementary
 
 18 Holidays
 
-A
+### A
 
 Holiday (noun)
 
@@ -3023,7 +3028,7 @@ I’m not working next week. I’m on holiday.
 
 Are you going on holiday this summer?
 
-B
+### B
 
 Types of holidays
 
@@ -3037,7 +3042,7 @@ I’m going on a walking holiday in the Alps.
 
 A coach tour is an easy way to go on holiday. [travelling in a comfortable bus]
 
-C
+### C
 
 Transport
 
@@ -3051,7 +3056,7 @@ by ferry
 
 by coach
 
-D
+### D
 
 Don’t forget to take …
 
@@ -3077,7 +3082,7 @@ suitcase
 
 rucksack
 
-E
+### E
 
 Expressions
 
@@ -3223,7 +3228,7 @@ English Vocabulary in Use Elementary
 
 19 Shops and shopping
 
-A
+### A
 
 Kinds of shops
 
@@ -3247,7 +3252,7 @@ gift shop
 
 * These words are also for people’s jobs. We often add ’s and say: I’m going to the newsagent’s to get a paper. Do you want anything from the butcher’s?
 
-B
+### B
 
 In the department store
 
@@ -3289,11 +3294,11 @@ z Electricals
 
 z Food
 
-C
+### C
 
 Signs in shops
 
-D
+### D
 
 Expressions
 
@@ -3457,7 +3462,7 @@ English Vocabulary in Use Elementary
 
 20 Online shopping
 
-A
+### A
 
 Buying something
 
@@ -3519,7 +3524,7 @@ Read the reviews
 
 Today’s Date: 15 November
 
-B
+### B
 
 Your order
 
@@ -3569,7 +3574,7 @@ A post code (zip code in the US) is a long number at the end of an address. In t
 
 (e.g. BA1 1LZ). A US zip code looks like this: 10509.
 
-C
+### C
 
 Expressions
 
@@ -3725,7 +3730,7 @@ English Vocabulary in Use Elementary
 
 21 In a hotel
 
-A
+### A
 
 Places and things in the hotel
 
@@ -3753,7 +3758,7 @@ mini-bar
 
 hairdryer
 
-B
+### B
 
 Expressions in reception
 
@@ -3783,7 +3788,7 @@ Can I check out, please?
 
 Can I have the bill, please?
 
-C
+### C
 
 Asking questions about hotel services
 
@@ -3947,7 +3952,7 @@ English Vocabulary in Use Elementary
 
 22 Eating out
 
-A
+### A
 
 Places where you can eat
 
@@ -3961,7 +3966,7 @@ fast food restaurant: you can get a quick hot meal there, for example burger and
 
 take-away: you buy a snack or a meal there and take it home to eat.
 
-B
+### B
 
 In a restaurant
 
@@ -3995,7 +4000,7 @@ Fruit salad
 
 (v = vegetarian)
 
-C
+### C
 
 Expressions
 
@@ -4133,7 +4138,7 @@ English Vocabulary in Use Elementary
 
 23 Sports
 
-A
+### A
 
 Ball games
 
@@ -4157,7 +4162,7 @@ volleyball
 
 table tennis
 
-B
+### B
 
 Other popular sports
 
@@ -4195,7 +4200,7 @@ We swim in a swimming pool.
 
 Many towns have a sports centre - you can do lots of different sports there.
 
-D
+### D
 
 Expressions
 
@@ -4303,7 +4308,7 @@ English Vocabulary in Use Elementary
 
 24 Cinema
 
-A
+### A
 
 Types of films
 
@@ -4325,7 +4330,7 @@ a musical
 
 a romantic comedy
 
-B
+### B
 
 People in films
 
@@ -4339,7 +4344,7 @@ the Harry Potter films.
 
 I like films by Italian directors.
 
-C
+### C
 
 Expressions
 
@@ -4429,13 +4434,13 @@ O
 
 R
 
-C
+### C
 
 M
 
 Y
 
-A
+### A
 
 T
 
@@ -4445,7 +4450,7 @@ S
 
 N C
 
-F
+### F
 
 N
 
@@ -4511,7 +4516,7 @@ English Vocabulary in Use Elementary
 
 25 Free time at home
 
-A
+### A
 
 TV, radio, music, film
 
@@ -4529,7 +4534,7 @@ I often listen to music on my phone when I’m relaxing.
 
 I need some new headphones for my phone.
 
-B
+### B
 
 Hobbies
 
@@ -4545,7 +4550,7 @@ Do you like gardening? /ˈgɑːdnɪŋ/
 
 We grow flowers and vegetables in our garden.
 
-C
+### C
 
 Reading
 
@@ -4561,7 +4566,7 @@ I like magazines about music and sport.
 
 Do you read a newspaper every day?
 
-D
+### D
 
 Expressions
 
@@ -4701,7 +4706,7 @@ English Vocabulary in Use Elementary
 
 26 Music and musical instruments
 
-A
+### A
 
 Music, musical and musician
 
@@ -4721,7 +4726,7 @@ A musician (noun) is a person.
 
 My brother is a very good musician. He plays three instruments.
 
-B
+### B
 
 Musical instruments
 
@@ -4741,7 +4746,7 @@ trumpet
 
 clarinet
 
-C
+### C
 
 Playing musical instruments
 
@@ -4755,7 +4760,7 @@ Lucas is an excellent violinist. His sister is a good pianist.
 
 Can you play a musical instrument?
 
-D
+### D
 
 Listening to music
 
@@ -4905,7 +4910,7 @@ English Vocabulary in Use Elementary
 
 27 Countries and nationalities
 
-A
+### A
 
 Continents and countries
 
@@ -4983,7 +4988,7 @@ Common mistakes
 
 All the nouns and adjectives for continents, countries and nationalies always begin with a capital letter, for example Africa [NOT africa].
 
-B
+### B
 
 Nationalities
 
@@ -5149,7 +5154,7 @@ English Vocabulary in Use Elementary
 
 28 Weather
 
-A
+### A
 
 Types of weather
 
@@ -5169,7 +5174,7 @@ thunder
 
 lightning
 
-B
+### B
 
 Adjectives and verbs
 
@@ -5209,7 +5214,7 @@ lightning
 
 -
 
-C
+### C
 
 Other useful weather words
 
@@ -5227,7 +5232,7 @@ A storm is when there is a strong wind and rain together.
 
 A thunderstorm is when there is thunder, lightning, rain and sometimes wind together.
 
-D
+### D
 
 Expressions
 
@@ -5285,19 +5290,19 @@ Exercises
 
 7 cloud
 
-a
+### A
 
-b
+### B
 
-c
+### C
 
-d
+### D
 
-e
+### E
 
-f
+### F
 
-g
+### G
 
 28.2 Look at the chart. Write sentences about the cities in the chart.
 
@@ -5397,7 +5402,7 @@ English Vocabulary in Use Elementary
 
 29 In the town
 
-A
+### A
 
 Places in the town
 
@@ -5423,11 +5428,11 @@ Car park - you can park your car here.
 
 Pedestrian area /ˈe@ri@/ - you can only walk here, you can’t come here by car.
 
-B
+### B
 
 Notices in towns
 
-C
+### C
 
 Asking for and giving directions
 
@@ -5601,7 +5606,7 @@ English Vocabulary in Use Elementary
 
 The countryside and the country both mean ‘not the city’. Country can also mean a nation (e.g. France, China).
 
-A
+### A
 
 Things we can see in the countryside
 
@@ -5627,7 +5632,7 @@ farm
 
 country road
 
-B
+### B
 
 Living and working in the countryside
 
@@ -5639,7 +5644,7 @@ A farmer lives on a farm and works in the fields.
 
 My friend lives in a cottage /ˈkɒtɪdʒ/ [small house in a village or the countryside].
 
-C
+### C
 
 Nature /ˈneɪtʃə/ and conservation /kɒnsəˈveɪʃən/
 
@@ -5657,7 +5662,7 @@ In the south of the country, there is a national park [very big national conserv
 
 wildlife
 
-D
+### D
 
 Things to do in the countryside
 
@@ -5781,7 +5786,7 @@ English Vocabulary in Use Elementary
 
 31 Animals
 
-A
+### A
 
 Farm animals
 
@@ -5839,7 +5844,7 @@ milk, meat
 
 kid
 
-B
+### B
 
 Wild or zoo animals
 
@@ -5855,7 +5860,7 @@ elephant
 
 lion
 
-C
+### C
 
 Pets
 
@@ -5875,7 +5880,7 @@ dog
 
 A parrot is a bird.
 
-D
+### D
 
 Expressions
 
@@ -6011,7 +6016,7 @@ p
 
 1
 
-a
+### A
 
 5
 
@@ -6059,7 +6064,7 @@ English Vocabulary in Use Elementary
 
 32 Travelling
 
-A
+### A
 
 Types of transport
 
@@ -6085,7 +6090,7 @@ boat
 
 ship
 
-B
+### B
 
 Useful travel words
 
@@ -6107,7 +6112,7 @@ Common mistakes
 
 Was the journey long? [NOT Was the travel long?]
 
-C
+### C
 
 By train
 
@@ -6119,7 +6124,7 @@ A: Do I have to change trains for Toulouse? [get off one train and get onto anot
 
 B: No, it’s a direct train.
 
-D
+### D
 
 By plane
 
@@ -6143,7 +6148,7 @@ my passport].
 
 After landing you have to go through customs.
 
-E
+### E
 
 By car
 
@@ -6243,7 +6248,7 @@ m
 
 6
 
-e
+### E
 
 t
 
@@ -6251,7 +6256,7 @@ t
 
 3
 
-a
+### A
 
 7 b
 
@@ -6263,7 +6268,7 @@ l
 
 8
 
-e
+### E
 
 5
 
@@ -6281,7 +6286,7 @@ English Vocabulary in Use Elementary
 
 33 UK culture
 
-A
+### A
 
 Special days
 
@@ -6335,7 +6340,7 @@ children dress up, children knock at doors and ask for sweets Bonfire Night
 
 have a bonfire and fireworks
 
-B
+### B
 
 Food
 
@@ -6347,7 +6352,7 @@ the oven] with Yorkshire pudding [dish made of flour, milk and eggs].
 
 Chicken tikka masala [a kind of curry] comes from India, but is very popular in the UK.
 
-C
+### C
 
 Education
 
@@ -6375,7 +6380,7 @@ private school
 
 parents pay for children to go here
 
-D
+### D
 
 Politics
 
@@ -6521,7 +6526,7 @@ English Vocabulary in Use Elementary
 
 34 Crime
 
-A
+### A
 
 Crimes and criminals
 
@@ -6629,7 +6634,7 @@ robbed last week.
 
 I was robbed last night. [NOT I was stolen.]
 
-B
+### B
 
 The law /lɔː/
 
@@ -6645,7 +6650,7 @@ If he is innocent he can go home. /ˈɪnəsənt/
 
 I don’t think he will go to prison.
 
-C
+### C
 
 Other crime problems
 
@@ -6767,7 +6772,7 @@ English Vocabulary in Use Elementary
 
 35 The media
 
-A
+### A
 
 Radio and TV programmes
 
@@ -6787,7 +6792,7 @@ My brother likes watching reality TV [programmes that film real people living th
 
 I always watch sports programmes.
 
-B
+### B
 
 Newspapers and magazines
 
@@ -6821,7 +6826,7 @@ where they happen]
 
 My sister is a journalist; she writes for The Oxford Times newspaper. [person who writes articles]
 
-D
+### D
 
 Expressions
 
@@ -6957,7 +6962,7 @@ English Vocabulary in Use Elementary
 
 36 Problems at home and work
 
-A
+### A
 
 At home
 
@@ -6979,7 +6984,7 @@ You should put on a plaster.
 
 You’ve had a row /raU/ with a friend. Will you apologise [say ‘I’m sorry’]?
 
-B
+### B
 
 At work
 
@@ -7099,7 +7104,7 @@ English Vocabulary in Use Elementary
 
 37 Global problems
 
-A
+### A
 
 Natural disasters
 
@@ -7115,7 +7120,7 @@ There were serious floods in the north yesterday. [too much water]
 
 The river often floods after heavy rain. [water goes over the river banks]
 
-B
+### B
 
 Man-made problems
 
@@ -7293,7 +7298,7 @@ English Vocabulary in Use Elementary
 
 38 Have / had / had
 
-A
+### A
 
 What can you have?
 
@@ -7313,7 +7318,7 @@ ice cream some cheese
 
 have a shower /ˈʃaʊə/ a bath a swim
 
-B
+### B
 
 Expressions with have
 
@@ -7337,7 +7342,7 @@ I’m going to have my hair cut. See you later. Can you meet me at the hairdress
 
 I want to learn to ski but I don’t have the time.
 
-C
+### C
 
 Have + got (speaking / informal) = have (writing / formal) I’ve got three sisters. Have you got any brothers and sisters?
 
@@ -7353,7 +7358,7 @@ I’ve got a problem. Can I have a word with you?
 
 I’ve got a cold / a headache. /ˈhedeɪk/
 
-D
+### D
 
 Have got to (speaking / informal) = have to (writing / formal) We use have (got) to when the situation means you are obliged to do something.
 
@@ -7449,9 +7454,9 @@ Across
 
 m
 
-e
+### E
 
-a
+### A
 
 l
 
@@ -7519,7 +7524,7 @@ English Vocabulary in Use Elementary
 
 39 Go / went / gone
 
-A
+### A
 
 Go
 
@@ -7537,7 +7542,7 @@ swimming pool today?
 
 Where does this road go?
 
-B
+### B
 
 Go + prepositions
 
@@ -7557,7 +7562,7 @@ up the stairs slowly.
 
 went down the stairs quickly.
 
-C
+### C
 
 Future plans
 
@@ -7569,7 +7574,7 @@ We’re going to visit my aunt in New York soon.
 
 I’m going to learn five new words every day.
 
-D
+### D
 
 Expressions Go + -ing for activities
 
@@ -7717,7 +7722,7 @@ English Vocabulary in Use Elementary
 
 40 Do / did / done
 
-A
+### A
 
 Do as auxiliary
 
@@ -7743,7 +7748,7 @@ He doesn’t play well.
 
 Leo didn’t see it.
 
-B
+### B
 
 What are you doing?
 
@@ -7761,7 +7766,7 @@ What are the people in the picture doing?
 
 They’re dancing.
 
-C
+### C
 
 What do you do?
 
@@ -7775,7 +7780,7 @@ B: She’s a doctor. / She’s a teacher.
 
 (See Unit 14: Jobs.)
 
-D
+### D
 
 Do + activity
 
@@ -7881,7 +7886,7 @@ English Vocabulary in Use Elementary
 
 41 Make / made / made
 
-A
+### A
 
 Make …
 
@@ -7897,7 +7902,7 @@ He’s making a photocopy.
 
 She’s making a film / video.
 
-B
+### B
 
 It makes me (feel) …
 
@@ -7907,7 +7912,7 @@ My friend called me stupid. It made me (feel) angry.
 
 That film made me (feel) sad.
 
-C
+### C
 
 Expressions
 
@@ -8031,7 +8036,7 @@ go
 
 come
 
-A
+### A
 
 Come in / out
 
@@ -8051,7 +8056,7 @@ You put your money in and the ticket
 
 comes out of the machine.
 
-B
+### B
 
 Come back and come home
 
@@ -8079,7 +8084,7 @@ MUM:
 
 What! That’s much too late!
 
-C
+### C
 
 Other important uses of come
 
@@ -8231,7 +8236,7 @@ English Vocabulary in Use Elementary
 
 43 Take / took / taken
 
-A
+### A
 
 Take with time (it + take + person + time)
 
@@ -8259,7 +8264,7 @@ A: How long did it take you to learn the Greek alphabet?
 
 B: A week or two.
 
-B
+### B
 
 Take something with you
 
@@ -8271,7 +8276,7 @@ Sorry, you can’t take your
 
 camera into the museum.
 
-C
+### C
 
 Expressions
 
@@ -8385,7 +8390,7 @@ English Vocabulary in Use Elementary
 
 44 Bring / brought / brought
 
-A
+### A
 
 Bring and take
 
@@ -8409,7 +8414,7 @@ my garden. B: Oh, thank you!
 
 me flowers.
 
-C
+### C
 
 Bring something back
 
@@ -8545,7 +8550,7 @@ English Vocabulary in Use Elementary
 
 45 Get / got / got
 
-A
+### A
 
 Get with adjectives: for changes
 
@@ -8565,7 +8570,7 @@ I’m getting tired. I want to go to bed.
 
 It’s raining! I’m getting wet!
 
-B
+### B
 
 Get with nouns
 
@@ -8583,7 +8588,7 @@ I’ve finished my studies. Now I want to get a job.
 
 My friend is ill! Please get a doctor.
 
-C
+### C
 
 Expressions
 
@@ -8709,7 +8714,7 @@ English Vocabulary in Use Elementary
 
 46 Phrasal verbs
 
-A
+### A
 
 What are phrasal verbs?
 
@@ -8781,7 +8786,7 @@ come on
 
 Come on! We’re late.
 
-B
+### B
 
 One phrasal verb, different meanings
 
@@ -8925,7 +8930,7 @@ English Vocabulary in Use Elementary
 
 47 Everyday things
 
-A
+### A
 
 Things we do every day
 
@@ -8959,7 +8964,7 @@ go to bed
 
 a friend
 
-B
+### B
 
 Sometimes I …
 
@@ -8971,7 +8976,7 @@ go for a walk
 
 write letters / emails
 
-C
+### C
 
 Expressions
 
@@ -9127,7 +9132,7 @@ How do you say
 
 ‘book’ in Spanish?
 
-A
+### A
 
 Say (say / said / said)
 
@@ -9149,7 +9154,7 @@ thank you / Happy Birthday / Merry Christmas
 
 We use say when we ask about language.
 
-B
+### B
 
 Tell (tell / told / told)
 
@@ -9177,7 +9182,7 @@ Can you tell me where the bus
 
 station is, please? [NOT Can you say
 
-C
+### C
 
 Ask
 
@@ -9341,7 +9346,7 @@ English Vocabulary in Use Elementary
 
 49 Moving
 
-A
+### A
 
 Without transport
 
@@ -9361,7 +9366,7 @@ fall
 
 When talking about the past, we say: walked / ran / jumped / danced / swam / climbed / fell.
 
-B
+### B
 
 Transport
 
@@ -9415,7 +9420,7 @@ time. The plane arrived late
 
 at Heathrow.
 
-C
+### C
 
 Expressions
 
@@ -9581,7 +9586,7 @@ English Vocabulary in Use Elementary
 
 50 Conjunctions and connecting words
 
-A
+### A
 
 Basic conjunctions
 
@@ -9683,7 +9688,7 @@ dinner.
 
 happens and it may not happen.
 
-B
+### B
 
 Other connecting words
 
@@ -9861,7 +9866,7 @@ English Vocabulary in Use Elementary
 
 51 Days, months, seasons
 
-A
+### A
 
 Time
 
@@ -9879,7 +9884,7 @@ There are:
 
 100 years in a century
 
-B
+### B
 
 Days of the week
 
@@ -9941,7 +9946,7 @@ on Tuesday evening.
 
 at the weekend [NOT in the weekend].
 
-C
+### C
 
 Months and seasons
 
@@ -9993,7 +9998,7 @@ Thirty days has S eptember
 
 ,
 
-A
+### A
 
 , J
 
@@ -10089,7 +10094,7 @@ English Vocabulary in Use Elementary
 
 52 Time words
 
-A
+### A
 
 Time in relation to now
 
@@ -10129,7 +10134,7 @@ W
 
 T
 
-F
+### F
 
 S
 
@@ -10175,7 +10180,7 @@ In the past people didn’t have television.
 
 People may travel to Mars in the future.
 
-B
+### B
 
 Frequency adverbs
 
@@ -10203,7 +10208,7 @@ It often rains in the UK.
 
 The Ancient Romans never went to America or Australia.
 
-C
+### C
 
 Expressions
 
@@ -10355,7 +10360,7 @@ English Vocabulary in Use Elementary
 
 53 Places
 
-A
+### A
 
 General place words
 
@@ -10391,7 +10396,7 @@ Don’t put your books on the chair. I want to sit on it!
 
 on
 
-C
+### C
 
 Positions
 
@@ -10411,7 +10416,7 @@ the beginning of the motorway
 
 the end of the motorway
 
-D
+### D
 
 Left and right
 
@@ -10425,7 +10430,7 @@ In York Street, there is a cinema on the left
 
 and a restaurant on the right.
 
-E
+### E
 
 Home and away
 
@@ -10561,7 +10566,7 @@ and see new countries.
 
 Adjectives and adverbs can describe manner, i.e. how we do something.
 
-A
+### A
 
 Fast and slow
 
@@ -10577,7 +10582,7 @@ This car goes very fast.
 
 This car goes very slowly.
 
-B
+### B
 
 Loud /laud/ and quiet /ˈkwaɪət/
 
@@ -10595,7 +10600,7 @@ The teacher speaks very quietly.
 
 We can’t hear him.
 
-C
+### C
 
 Good and bad
 
@@ -10611,7 +10616,7 @@ She drives well.
 
 He drives badly.
 
-D
+### D
 
 Right and wrong
 
@@ -10627,7 +10632,7 @@ I like very much coffee.
 
 [✗]
 
-E
+### E
 
 Expressions with way
 
@@ -10769,7 +10774,7 @@ English Vocabulary in Use Elementary
 
 55 Common uncountable nouns
 
-A
+### A
 
 What are countable and uncountable nouns?
 
@@ -10797,7 +10802,7 @@ Can I have three apples and some sugar, please?
 
 Are these shoes yours? Is this luggage yours?
 
-B
+### B
 
 Everyday uncountable nouns
 
@@ -10833,7 +10838,7 @@ rail travel.
 
 hard work.
 
-C
+### C
 
 Food
 
@@ -10997,7 +11002,7 @@ English Vocabulary in Use Elementary
 
 56 Common adjectives: Good and bad things
 
-A
+### A
 
 Good adjectives
 
@@ -11037,7 +11042,7 @@ A: Do you want to go to London on Saturday?
 
 B: That’s an excellent idea! [very good]
 
-B
+### B
 
 Bad adjectives
 
@@ -11053,7 +11058,7 @@ The traffic’s terrible at 5 o’clock on Fridays.
 
 bad weather
 
-C
+### C
 
 Expressions
 
@@ -11205,7 +11210,7 @@ English Vocabulary in Use Elementary
 
 57 Words and prepositions
 
-A
+### A
 
 Phrasal and prepositional verbs
 
@@ -11229,7 +11234,7 @@ Lauren thanked her mother for the present.
 
 Damian apologised for being late.
 
-B
+### B
 
 Phrasal verbs
 
@@ -11273,7 +11278,7 @@ forward to
 
 a party
 
-C
+### C
 
 Adjectives
 
@@ -11299,7 +11304,7 @@ happy about her success
 
 [NOT happy for her success].
 
-D
+### D
 
 Grammar
 
@@ -11839,7 +11844,7 @@ English Vocabulary in Use Elementary
 
 This unit looks at words which are easy to mix up.
 
-A
+### A
 
 Similar sounds
 
@@ -11879,7 +11884,7 @@ He is a very good cook [the person who cooks].
 
 This cooker costs £500. [the thing you cook on]
 
-B
+### B
 
 Similar or related meanings
 
@@ -11905,7 +11910,7 @@ The passport officer checked my passport. [looked at it]
 
 We use the mouse to control the computer. [tell it what to do]
 
-C
+### C
 
 Other words often mixed up
 
@@ -12277,7 +12282,7 @@ u
 
 i
 
-h
+### H
 
 3
 
@@ -12287,23 +12292,23 @@ k
 
 n
 
-e
+### E
 
-e
+### E
 
-g
+### G
 
 y
 
 5
 
-e
+### E
 
 n
 
-e
+### E
 
-c
+### C
 
 k
 
@@ -13709,7 +13714,7 @@ T H R I L L E R
 
 H O R R O R
 
-C
+### C
 
 E D
 
@@ -14741,7 +14746,7 @@ y
 
 m
 
-e
+### E
 
 5g a m e
 

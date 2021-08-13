@@ -380,7 +380,7 @@ You carry(携带) a bag and an umbrella.
 你带着一个包和一把伞。
 
 In the morning you get dressed or put your clothes on. At night you get undressed or you take your clothes off.
-早上你穿上衣服。晚上你脱掉衣服。
+早上你穿好衣服或穿上衣服。晚上你脱衣服或脱衣服。
 
 Common mistakes
 常见错误
@@ -436,27 +436,37 @@ The doctor said I am overweight. [weigh too much]
 Their cat is very fat. It needs to go on a diet.
 他们的猫很肥。它需要节食。
 
-### B Face and head
+### B Face and head 脸及头
+
+(has有(have的第三人称单数))
 
 Suri has dark skin and dark hair. She has brown eyes.
+苏里有黑色的皮肤和黑发。 她拥有棕色眼睛。
 
 Polly
 
 Polly has blonde (or fair) hair and fair skin. She has blue eyes.
+奥利有一头金色（或金黄）的头发和白皙的皮肤。她有一双蓝眼睛
 
 Suri
 
 Ben has a beard and long hair. He has green eyes.
+本留着胡子和长发。他有一双绿色的眼睛。
 
 Luca has a moustache /mʊˈstɑːʃ/ and short hair.
+卢卡留着小胡子和短发
 
 You can also use has got, for example, Suri has got dark hair and dark skin.
+你也可以使用has-got，例如，Suri有黑色的头发和皮肤。
 
 My mother is a very beautiful woman. [very pretty]
+我妈妈是一个非常漂亮的女人[非常漂亮]
 
 My dad’s a very good-looking man.
+我爸爸是个很帅的男人
 
 Common mistakes
+常见错误
 
 People are tall [NOT People are high].
 
@@ -465,36 +475,51 @@ Ben
 Luca
 
 People have blonde or dark hair [NOT hairs].
+人们有金色或黑色的 hair [不是 hairs]。
 
 My sister is pretty. (usually girls / women only)
+我妹妹很漂亮(通常仅限女孩/女性）
 
 Bob’s an ugly man. [ugly = the opposite of beautiful or good-looking]
+鲍勃是个丑陋的人[丑陋 与之相反 美丽或长得好看]
 
-I’m not ugly or beautiful, I’m just average-looking!
+I’m not ugly or beautiful, I’m just(只是) average-looking!(长相一般)
+我既不丑也不美，我只是长相一般而已
 
-### C
-
-Age
+### C Age 年龄
 
 My grandmother is 97. She’s very old. My sister is 14. She’s young, but would like to be older. My father is 56. He’s middle-aged, but would like to be younger!
+我祖母97岁了，她很老了。我妹妹14岁。她很年轻，但她想长大一点。我的父亲56岁了，他已经中年了，但他想更年轻一些！
 
-This hospital is for elderly people. (more polite than old) D
+This hospital(医院) is for elderly(老人家) people. (more polite(礼貌) than old(老的)) 
+这家医院适合老年人。 （比老人更有礼貌）
+### D Expressions 表达
 
-Expressions
+A: How tall is Bettina / Tom? 
+贝蒂娜/汤姆 有多高
 
-A: How tall is Bettina / Tom? B: She’s 1.85 metres tall. / He’s 1.48 metres tall.
+B: She’s 1.85 metres tall. / He’s 1.48 metres tall.
+她高1.85米。 /他高1.48米
 
-A: How heavy are you? / How much do you weigh? B: I weigh 62 kilos / 74 kilos, etc.
+A: How heavy are you? / How much do you weigh? 
+你有多重 你体重多少？
+
+B: I weigh 62 kilos / 74 kilos, etc.
+我体重62公斤/74公斤，等等
 
 A: How old is he? B: He’s 84.
+他多大了？他84岁了。
 
 A: What does Gemma / your sister look like?
+杰玛/你 妹妹长什么样？
 
 B: She’s tall and dark. She’s very pretty.
+她又高又黑。她很漂亮。
 
 Tip
 
-Some of the words on this page are a little negative, so be careful how you use them. It’s better not to say to someone:
+Some of the words on this page are a little negative(有点负面), so be careful how you use them. It’s better not to say to someone:
+这一页上的一些单词有点负面，所以要小心使用它们。最好不要对别人说：
 
 ‘You are fat / thin / ugly / old.’
 
@@ -20799,7 +20824,2305 @@ How to learn vocabulary
 
 Acknowledgements
 
+# Word list 单词表
 
-
+替换正则 双字节字符 中文音标 
+出现次数:.+单词:.+[^\x00-\xff].+
+出现次数:1622单词:the 这；那
+出现次数:1014单词:to
+出现次数:879单词:you 你；你们
+出现次数:828单词:in 在……内
+出现次数:591单词:and 和，与；就；而且；但是；然后
+出现次数:527单词:is 是（be 的第三人称单数）
+出现次数:405单词:of 属于；……的；……的一部分；关于；由……组成的；因为；
+出现次数:372单词:do 做，干，办（某事）
+出现次数:366单词:it [指无生命的东西、动物、植物]它 这；那
+出现次数:301单词:have 有；让；拿；从事；允许
+出现次数:285单词:on 在……之上
+出现次数:282单词:go 走；达到；运转；趋于
+出现次数:281单词:can 能；能够；有机会；可能；被允许
+出现次数:279单词:are 是（be的第二人称单复数现在式）
+出现次数:275单词:my 我的
+出现次数:272单词:at 在（表示存在或出现的地点、场所、位置、空间）；在……岁时；在……远
+出现次数:269单词:for （表示对象、用途等）给，对；为了； 关于；代表；受雇于；意思是
+出现次数:261单词:your 你的
+出现次数:256单词:use 使用，
+出现次数:247单词:or 或
+出现次数:245单词:english 英文的；英国的；英国人的
+出现次数:221单词:what 什么；多么；多少
+出现次数:196单词:with 和……在一起
+出现次数:189单词:we 我们（主格）
+出现次数:181单词:like 像，如同；符合……的方式 喜欢；想；愿意；希望
+出现次数:178单词:she 她（主格）
+出现次数:177单词:vocabulary 词汇；词表；词汇量
+出现次数:176单词:he 他；（泛指的）人
+出现次数:167单词:not 表示否定，不
+出现次数:166单词:elementary 基本的；初级的；
+出现次数:155单词:very 非常，很；完全；
+出现次数:149单词:an 一个（用于元音前）
+出现次数:149单词:get  使得；获得；受到；变成
+出现次数:146单词:take 拿，取；
+出现次数:145单词:when  什么时候；什么情况下；什么场合下；
+出现次数:142单词:from  从……起；从……开始
+出现次数:139单词:this 这，这个；这样
+出现次数:128单词:there  在那里；在那边；在那点上
+出现次数:124单词:these 这些（this 的复数）
+出现次数:123单词:how  如何；多少；多么
+出现次数:116单词:words 字（word的复数）；话语；言语
+出现次数:116单词:that 那，那个；那种
+出现次数:110单词:they ] 他们；它们；她们
+出现次数:110单词:me 我（宾格）
+出现次数:108单词:come 来；开始；出现；发生；变成；到达
+出现次数:107单词:some 一些；某些；好些；少量；某个；算不上；大约；至少有一点
+出现次数:107单词:about 大约；将近；到处
+出现次数:106单词:good 好的；优良的
+出现次数:105单词:going 离开，离去
+出现次数:104单词:day 一天；时期；白昼
+出现次数:102单词:want 需要；希望；应该；缺少
+出现次数:100单词:images 图像；影像；肖像；想像
+出现次数:99单词:was 是；在（am、is 的过去式）
+出现次数:99单词:please  请（礼貌用语）
+出现次数:99单词:possible 可能的；合理的；合适的
+出现次数:97单词:got 得到，明白（get的过去式和过去分词）
+出现次数:97单词:people 人；人类；民族；公民
+出现次数:97单词:unit 单位，单元；装置
+出现次数:92单词:every 每一的，每个的；每隔……的
+出现次数:91单词:write 写，写字；写作，作曲；写信
+出现次数:90单词:has  有，吃，得到，从事，允许
+出现次数:88单词:make 使得；进行；布置，准备，整理；制造
+出现次数:87单词:new 新的，新鲜的；更新的；初见的
+出现次数:87单词:answers 答案，回答
+出现次数:86单词:her 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）
+出现次数:85单词:up  向上；上涨；靠近（某人）；朝……的方向；到（重要地方）
+出现次数:80单词:but 但是；而是；然而
+出现次数:80单词:here 在这里；此时
+出现次数:78单词:car 汽车；车厢
+出现次数:77单词:often  常常，时常；往往，大多
+出现次数:77单词:don 先生，阁下；指导教师，大学教师
+出现次数:77单词:work 工作；功；产品；操作；职业；行为
+出现次数:77单词:phone 电话；耳机，听筒
+出现次数:77单词:time 时间；时代；次数；节拍；倍数
+出现次数:76单词:sentences 句子； 宣判，判决，判刑
+出现次数:76单词:tv 电视
+出现次数:76单词:getty 盖提（姓氏
+出现次数:74单词:plus 加；和；（温度）零上
+出现次数:73单词:if （表条件）如果
+出现次数:72单词:usually 通常，经常
+出现次数:72单词:see 看见；理解；领会；觉察；拜访
+出现次数:70单词:one 一；一个；一岁；一点钟
+出现次数:70单词:home 家，住宅；
+出现次数:70单词:school 学校；学院
+出现次数:69单词:look 看；期待；注意；面向
+出现次数:68单词:year 年；年度；历年；年纪
+出现次数:68单词:where 在哪里
+出现次数:68单词:answer 答复，回答；答案
+出现次数:67单词:say  讲；说明
+出现次数:66单词:bus 公共汽车
+出现次数:66单词:room  房间；空间；余地
+出现次数:65单词:two 两个
+出现次数:65单词:ex 前妻，前夫，前伴侣
+出现次数:63单词:his 他的；它的（指雄性动物）
+出现次数:63单词:exercises 练习题
+出现次数:63单词:music  音乐
+出现次数:60单词:train 火车；行列；长队；裙裾
+出现次数:59单词:out 出现；向外；在室外
+出现次数:58单词:yes 是, 是的
+出现次数:57单词:by  由，被；通过；相差……；到……之前；在……旁边
+出现次数:56单词:mistakes 错误（mistake的复数形式）
+出现次数:56单词:right 正确的；直接的；右方的
+出现次数:55单词:them 他们；她们；它们
+出现次数:53单词:things  事物（thing的复数形式）
+出现次数:53单词:well 很好地；充分地
+出现次数:53单词:left   左边的；左派的；剩下的
+出现次数:52单词:complete 完整的；完全的；彻底的
+出现次数:52单词:something 某事；某物
+出现次数:51单词:common 共同的；普通的
+出现次数:51单词:someone 有人，某人；重要人物
+出现次数:51单词:week 周，星期
+出现次数:50单词:no 不，完全不 否定的回答；（复数 noes）
+出现次数:50单词:now 现在；如今；立刻
+出现次数:50单词:today  今天，今日；现今，当代
+出现次数:50单词:down 在下面；向下，朝下
+出现次数:49单词:opposite 相反的；对面的；对立的
+出现次数:49单词:shop 商店；店铺
+出现次数:48单词:always 永远，一直；总是；常常
+出现次数:48单词:which 哪一个，哪一些
+出现次数:47单词:expressions 表达式；表情；公式；表示式
+出现次数:47单词:too 太；也；很；还；非常；过度
+出现次数:47单词:be 被（用于被动语态）；正；正在（用于进行时
+出现次数:47单词:off 离开；脱掉；出发，起跑；结束，取消；
+出现次数:47单词:questions 问题（question的复数）
+出现次数:47单词:bad 坏的；严重的；劣质的
+出现次数:46单词:help 帮助；促进；治疗；补救
+出现次数:46单词:book 书籍
+出现次数:45单词:children 孩子们（child的复数）
+出现次数:45单词:back 背部；脊梁骨；后部；背面；末尾
+出现次数:45单词:need 必须，需要；（表示应该或不得不做）有必要
+出现次数:45单词:country 国家，国土；国民；乡下，农村；乡村；故乡
+出现次数:44单词:went 去，过去（go的过去式）
+出现次数:44单词:watch  观察；注视；看守；警戒 手表
+出现次数:44单词:much 非常，很 许多，大量
+出现次数:44单词:coffee 咖啡
+出现次数:43单词:all 所有；全部
+出现次数:43单词:friend 朋友；助手；赞助者
+出现次数:43单词:clock 时钟；计时器
+出现次数:42单词:after 在……之后；在……身后；反复；跟随；追求；以……命名
+出现次数:42单词:hair 头发
+出现次数:42单词:film 电影；薄膜；胶卷；轻烟
+出现次数:42单词:lot [n] 所有；（一）群，（一）批；场地；份额；许多 很，非常 大量 分组，把……划分
+出现次数:41单词:does 做；工作；有用（do的第三人称单数形式）
+出现次数:41单词:will 将；总是；愿意
+出现次数:41单词:read  阅读；读懂，理解
+出现次数:41单词:house 住宅；家庭；机构
+出现次数:40单词:three 三，三个
+出现次数:40单词:yesterday 在昨天
+出现次数:40单词:happy  幸福的
+出现次数:39单词:had 拥有（have 的过去式和过去分词
+出现次数:39单词:morning 早晨；
+出现次数:39单词:last 最后的；最近的，上一次的；最终的
+出现次数:39单词:did 做（do的过去式）
+出现次数:39单词:put 放；表达；移动；安置；赋予
+出现次数:39单词:would 将，将会（will 的过去式）
+出现次数:39单词:drink 喝，饮；喝酒；把……喝完，干杯
+出现次数:39单词:who  谁；什么人
+出现次数:38单词:sometimes 有时，间或
+出现次数:38单词:food 食物；养料
+出现次数:37单词:their 他们的；她们的
+出现次数:37单词:used 习惯的；二手的 使用过的
+出现次数:37单词:so 如此，这么；确是如此
+出现次数:37单词:over 倒下；翻转；穿过；完全覆盖；以上；大于；再；结束；改变；完毕；
+出现次数:37单词:holiday  假日；节日
+出现次数:36单词:any 任何的；任一；一点，些许；尽可能多的
+出现次数:36单词:eat 吃，喝；
+出现次数:36单词:swimming  游泳；目眩
+出现次数:36单词:evening 晚上；傍晚
+出现次数:36单词:different 不同的；个别的
+出现次数:36单词:online  联机的；在线的
+出现次数:35单词:love 爱；爱情；喜好；
+出现次数:35单词:correct （政治或思想）正确的；恰当的；端正的 [v] 改正；批改（学生作业）；校正；指出错误；
+出现次数:35单词:weather 天气；气象；气候；
+出现次数:35单词:restaurant 餐馆；[经] 饭店
+出现次数:35单词:station 车站；驻地；地位
+出现次数:34单词:made ……制造的，生产的；制作……的
+出现次数:34单词:page  页；记录；大事件，
+出现次数:34单词:before  在……之前，先于；在……面前；面对 .. 并受审
+出现次数:34单词:tea 茶叶；茶树；茶点
+出现次数:34单词:bring 带来；提供；引起
+出现次数:33单词:sister 姐妹
+出现次数:33单词:also 也；而且；同样
+出现次数:33单词:play  游戏；扮演；演奏；播放；同…比赛
+出现次数:33单词:tennis 网球
+出现次数:33单词:exam 考试；测验
+出现次数:33单词:football 足球，橄榄球
+出现次数:33单词:let 允许，让；出租；假设；妨碍
+出现次数:33单词:tell 告诉，说；辨别；吩咐；断定
+出现次数:32单词:brother  兄弟；同事；战友
+出现次数:32单词:word [语] 单词；话语；消息；诺言；命令
+出现次数:32单词:re 用于公函起首介绍主题或回复邮件）关于，兹就
+出现次数:32单词:news 新闻，消息；新闻报导
+出现次数:32单词:learn 学习；得知；认识到
+出现次数:32单词:taxi 出租汽车
+出现次数:32单词:first 第一
+出现次数:32单词:find 查找，找到
+出现次数:32单词:fill  装满
+出现次数:31单词:ve 维生素E
+出现次数:31单词:bed 床；基础；河底，海底
+出现次数:31单词:give 给；产生；让步；举办；授予
+出现次数:31单词:buy       购买
+出现次数:31单词:as        作为
+出现次数:30单词:our       我们的
+出现次数:30单词:dinner    晚餐
+出现次数:30单词:example   例子
+出现次数:30单词:teacher   老师
+出现次数:30单词:way       方式
+出现次数:29单词:call      呼叫
+出现次数:29单词:more      更多
+出现次数:29单词:washing   洗涤
+出现次数:29单词:clothes   衣服
+出现次数:29单词:match     比赛
+出现次数:29单词:feel      感觉
+出现次数:29单词:number    数
+出现次数:29单词:person    人
+出现次数:29单词:takes     拿
+出现次数:29单词:next      下一个
+出现次数:29单词:money     钱
+出现次数:29单词:sports    体育
+出现次数:28单词:verbs     动词
+出现次数:28单词:night     夜
+出现次数:28单词:job       工作
+出现次数:28单词:water     水
+出现次数:28单词:days      天
+出现次数:28单词:floor     地板
+出现次数:28单词:pay       支付
+出现次数:27单词:table     桌子
+出现次数:27单词:than      比
+出现次数:27单词:tomorrow  明天
+出现次数:27单词:birthday  生日
+出现次数:27单词:london    伦敦
+出现次数:27单词:turn      转动
+出现次数:27单词:minutes   会议记录
+出现次数:27单词:listen    听
+出现次数:27单词:office    办公室
+出现次数:27单词:talk      谈话
+出现次数:26单词:born      出生
+出现次数:26单词:were      是
+出现次数:26单词:using     使用
+出现次数:26单词:long      长的
+出现次数:26单词:pictures  图片
+出现次数:26单词:many      许多的
+出现次数:26单词:best      最好的
+出现次数:26单词:ask       问
+出现次数:26单词:shopping  购物
+出现次数:26单词:because   因为
+出现次数:26单词:town      镇
+出现次数:26单词:month     月
+出现次数:26单词:speak     说话
+出现次数:26单词:plane     飞机
+出现次数:26单词:order     秩序
+出现次数:26单词:other     其他
+出现次数:26单词:walk      步行
+出现次数:25单词:tired     疲倦的
+出现次数:25单词:doing     做
+出现次数:25单词:fast      快速的
+出现次数:25单词:post      邮递
+出现次数:25单词:check     检查
+出现次数:24单词:then      然后
+出现次数:24单词:think     认为
+出现次数:24单词:old       古老的
+出现次数:24单词:etc       等
+出现次数:24单词:tip       提示
+出现次数:24单词:favourite 最喜欢的
+出现次数:24单词:dark      黑暗的
+出现次数:24单词:oh        哦
+出现次数:24单词:prefer    更喜欢
+出现次数:24单词:party     聚会
+出现次数:24单词:cup       杯子
+出现次数:24单词:park      停车场
+出现次数:24单词:bank      银行
+出现次数:24单词:informati 信息on
+出现次数:24单词:gaps      缺口
+出现次数:23单词:parents   父母
+出现次数:23单词:cold      寒冷的
+出现次数:23单词:computer  计算机
+出现次数:23单词:second    第二
+出现次数:23单词:moment    瞬间
+出现次数:23单词:customer  顾客
+出现次数:23单词:hour      小时
+出现次数:22单词:mother    母亲
+出现次数:22单词:only      只有
+出现次数:22单词:soon      很快
+出现次数:22单词:summer    夏天
+出现次数:22单词:fruit     水果
+出现次数:22单词:traffic   交通
+出现次数:22单词:universit 大学y
+出现次数:22单词:done      完成
+出现次数:22单词:choose    选择
+出现次数:22单词:photo     照片
+出现次数:22单词:into      进入
+出现次数:22单词:machine   机器
+出现次数:22单词:radio     收音机
+出现次数:22单词:card      卡片
+出现次数:22单词:musical   音乐的
+出现次数:21单词:am        是
+出现次数:21单词:him       他
+出现次数:21单词:looking   看
+出现次数:21单词:countries 国家
+出现次数:21单词:never     从未
+出现次数:21单词:homework  作业
+出现次数:21单词:away      离开
+出现次数:21单词:road      路
+出现次数:21单词:uk        英国
+出现次数:21单词:adjective 形容词s
+出现次数:21单词:sentence  句子
+出现次数:21单词:marry     结婚
+出现次数:21单词:once      一旦
+出现次数:20单词:family    家庭
+出现次数:20单词:five      五
+出现次数:20单词:making    制作
+出现次数:20单词:problems  问题
+出现次数:20单词:letters   信件
+出现次数:20单词:verb      动词
+出现次数:20单词:box       箱
+出现次数:20单词:really    真正地
+出现次数:20单词:said      说
+出现次数:20单词:why       为什么？
+出现次数:20单词:fish      鱼
+出现次数:20单词:hot       热的
+出现次数:20单词:hope      希望
+出现次数:20单词:useful    有用的
+出现次数:20单词:breakfast 早餐
+出现次数:20单词:works     作品
+出现次数:20单词:end       结束
+出现次数:20单词:passport  护照
+出现次数:20单词:place     地方
+出现次数:19单词:wife      妻子
+出现次数:19单词:part      部分
+出现次数:19单词:form      形式
+出现次数:19单词:just      只是
+出现次数:19单词:better    更好的
+出现次数:19单词:thanks    谢谢
+出现次数:19单词:ok        好啊
+出现次数:19单词:goes      去
+出现次数:19单词:means     方法
+出现次数:19单词:cinema    电影院
+出现次数:19单词:great     伟大的
+出现次数:19单词:shower    淋浴
+出现次数:19单词:small     小的
+出现次数:19单词:waiter    服务员
+出现次数:19单词:notebook  笔记本
+出现次数:19单词:camera    照相机
+出现次数:19单词:noun      名词
+出现次数:19单词:hotel     酒店
+出现次数:19单词:luggage   行李
+出现次数:19单词:name      名称
+出现次数:19单词:centre    中心
+出现次数:19单词:saturday  星期六
+出现次数:19单词:times     时代
+出现次数:18单词:know      知道
+出现次数:18单词:note      笔记
+出现次数:18单词:tall      高的
+出现次数:18单词:lesson    课程
+出现次数:18单词:late      晚的
+出现次数:18单词:kitchen   厨房
+出现次数:18单词:course    课程
+出现次数:18单词:animals   动物
+出现次数:18单词:letter    信
+出现次数:18单词:friends   朋友
+出现次数:18单词:each      每个
+出现次数:18单词:delivery  传送
+出现次数:18单词:adjective 形容词
+出现次数:18单词:plays     演奏
+出现次数:18单词:annabelle 安娜贝利
+出现次数:18单词:aarav     阿拉夫
+出现次数:18单词:tə        tə
+出现次数:17单词:married   已婚的
+出现次数:17单词:years     年
+出现次数:17单词:must      必须
+出现次数:17单词:names     名字
+出现次数:17单词:dictionary词典
+出现次数:17单词:hospital  医院
+出现次数:17单词:doctor    医生
+出现次数:17单词:fine      好的
+出现次数:17单词:meal      一餐
+出现次数:17单词:same      相同的
+出现次数:17单词:lovely    可爱的
+出现次数:17单词:skiing    滑雪
+出现次数:17单词:programme 程序
+出现次数:17单词:mobile    可移动的
+出现次数:17单词:bill      账单
+出现次数:16单词:jack      杰克
+出现次数:16单词:big       大的
+出现次数:16单词:baby      宝贝
+出现次数:16单词:heart     心
+出现次数:16单词:cut       切
+出现次数:16单词:business  商业
+出现次数:16单词:bathroom  浴室
+出现次数:16单词:sorry     很抱歉
+出现次数:16单词:bedroom   卧室
+出现次数:16单词:light     光
+出现次数:16单词:email     电子邮件
+出现次数:16单词:capital   首都
+出现次数:16单词:magazine  杂志
+出现次数:15单词:karen     凯伦
+出现次数:15单词:grandmothe大蛾r
+出现次数:15单词:john      厕所
+出现次数:15单词:died      死亡
+出现次数:15单词:shirt     衬衫
+出现次数:15单词:wear      穿
+出现次数:15单词:white     白色
+出现次数:15单词:working   工作
+出现次数:15单词:picture   照片
+出现次数:15单词:thank     感谢
+出现次数:15单词:films     电影
+出现次数:15单词:sleep     睡觉
+出现次数:15单词:meat      肉
+出现次数:15单词:true      真的
+出现次数:15单词:change    改变
+出现次数:15单词:books     书
+出现次数:15单词:send      发送
+出现次数:15单词:most      最
+出现次数:15单词:winter    冬天
+出现次数:15单词:newspaper 报纸
+出现次数:15单词:may       也许
+出现次数:15单词:wake      醒来
+出现次数:15单词:chicken   鸡
+出现次数:15单词:nature    自然
+出现次数:15单词:sunny     晴朗的
+出现次数:15单词:half      一半
+出现次数:15单词:came      来了
+出现次数:15单词:past      过去的
+出现次数:15单词:took      拿
+出现次数:15单词:months    月
+出现次数:14单词:ill       生病的
+出现次数:14单词:chocolate 巧克力
+出现次数:14单词:afternoon 下午
+出现次数:14单词:goodbye   再见
+出现次数:14单词:christmas 圣诞节
+出现次数:14单词:street    街道
+出现次数:14单词:doesn     不会
+出现次数:14单词:getting   得到
+出现次数:14单词:tonight   今晚
+出现次数:14单词:didn      没有
+出现次数:14单词:chips     炸薯条
+出现次数:14单词:four      四
+出现次数:14单词:cooker    炊具
+出现次数:14单词:us        我们
+出现次数:14单词:assistant 助理
+出现次数:14单词:study     学习
+出现次数:14单词:address   地址
+出现次数:14单词:travel    旅行
+出现次数:14单词:shops     商店
+出现次数:14单词:cash      现金
+出现次数:14单词:lunch     午餐
+出现次数:14单词:café      咖啡馆
+出现次数:14单词:swim      游泳
+出现次数:14单词:sun       太阳
+出现次数:14单词:countrysid乡下人e
+出现次数:14单词:future    未来
+出现次数:14单词:brought   带来
+出现次数:14单词:haʊ       哈
+出现次数:13单词:tree      树
+出现次数:13单词:italy     意大利
+出现次数:13单词:side      一边
+出现次数:13单词:nouns     名词
+出现次数:13单词:shoes     鞋
+出现次数:13单词:blue      蓝色
+出现次数:13单词:yourself  你自己
+出现次数:13单词:quite     相当地
+出现次数:13单词:short     短的
+出现次数:13单词:beautiful 美丽的
+出现次数:13单词:man       男人
+出现次数:13单词:vegetables蔬菜
+出现次数:13单词:watching  看
+出现次数:13单词:leave     离开
+出现次数:13单词:pm        下午
+出现次数:13单词:hours     小时
+出现次数:13单词:british   英国的
+出现次数:13单词:eating    吃
+出现次数:13单词:gets      得到
+出现次数:13单词:hairdresse理发店r
+出现次数:13单词:makes     制造
+出现次数:13单词:pen       笔
+出现次数:13单词:century   世纪
+出现次数:13单词:remember  记得
+出现次数:13单词:internet  互联网
+出现次数:13单词:wet       潮湿的
+出现次数:13单词:dog       狗
+出现次数:13单词:wonderful 精彩的
+出现次数:13单词:code      代码
+出现次数:13单词:again     再一次
+出现次数:13单词:magazines 杂志
+出现次数:13单词:piano     钢琴
+出现次数:13单词:guitar    吉他
+出现次数:13单词:lessons   教训
+出现次数:13单词:wind      风
+出现次数:13单词:bicycle   自行车
+出现次数:13单词:prepositio介词ns
+出现次数:12单词:june      六月
+出现次数:12单词:woman     女人
+出现次数:12单词:wash      洗
+出现次数:12单词:umbrella  雨伞
+出现次数:12单词:lots      太多了
+出现次数:12单词:hello     你好
+出现次数:12单词:somewhere 在某处
+出现次数:12单词:agree     同意
+出现次数:12单词:journey   旅行
+出现次数:12单词:weekend   周末
+出现次数:12单词:bread     面包
+出现次数:12单词:uncountabl数不清的e
+出现次数:12单词:milk      牛奶
+出现次数:12单词:juice     果汁
+出现次数:12单词:live      居住
+出现次数:12单词:living    活的
+出现次数:12单词:pass      通过
+出现次数:12单词:listening 听
+出现次数:12单词:maths     数学
+出现次数:12单词:pin       大头针
+出现次数:12单词:text      文本
+出现次数:12单词:monday    星期一
+出现次数:12单词:snow      雪
+出现次数:12单词:credit    信用
+出现次数:12单词:door      门
+出现次数:12单词:lift      举起
+出现次数:12单词:comes     来
+出现次数:12单词:gardening 园艺
+出现次数:12单词:rain      雨
+出现次数:12单词:raining   下雨
+出现次数:12单词:horrible  极坏的
+出现次数:12单词:paris     巴黎
+出现次数:12单词:bike      自行车
+出现次数:12单词:agreed    同意
+出现次数:12单词:pre       之前
+出现次数:11单词:anne      安妮
+出现次数:11单词:father    父亲
+出现次数:11单词:attack    攻击
+出现次数:11单词:scotland  苏格兰
+出现次数:11单词:july      七月
+出现次数:11单词:parts     部分
+出现次数:11单词:hand      手
+出现次数:11单词:trousers  裤子
+出现次数:11单词:wearing   使人疲乏的
+出现次数:11单词:meeting   会议
+出现次数:11单词:middle    中间的
+出现次数:11单词:glass     玻璃
+出现次数:11单词:felt      感觉
+出现次数:11单词:arrive    到达
+出现次数:11单词:excuse    借口
+出现次数:11单词:meet      满足
+出现次数:11单词:december  十二月
+出现次数:11单词:meaning   意思
+出现次数:11单词:else      其他的
+出现次数:11单词:important 重要的
+出现次数:11单词:student   学生
+出现次数:11单词:italian   意大利人
+出现次数:11单词:isn       不是
+出现次数:11单词:places    地点
+出现次数:11单词:stay      停留
+出现次数:11单词:furniture 家具
+出现次数:11单词:ten       十
+出现次数:11单词:beach     海滩
+出现次数:11单词:travelling旅行
+出现次数:11单词:ticket    票
+出现次数:11单词:spain     西班牙
+出现次数:11单词:city      城市
+出现次数:11单词:key       钥匙
+出现次数:11单词:single    单一的
+出现次数:11单词:salad     沙拉
+出现次数:11单词:pool      水塘
+出现次数:11单词:hear      听到
+出现次数:11单词:learning  学习
+出现次数:11单词:south     南方
+出现次数:11单词:germany   德国
+出现次数:11单词:ride      骑
+出现次数:11单词:somebody  某人
+出现次数:11单词:robbed    抢劫
+出现次数:11单词:should    应该
+出现次数:11单词:phrasal   短语的
+出现次数:11单词:quiet     安静的
+出现次数:11单词:awful     可怕的
+出现次数:11单词:digitalvis洋地黄ion
+出现次数:11单词:image     形象
+出现次数:10单词:grandfathe祖父r
+出现次数:10单词:harry     骚扰
+出现次数:10单词:sad       悲哀的
+出现次数:10单词:body      身体
+出现次数:10单词:teeth     牙齿
+出现次数:10单词:coat      外套
+出现次数:10单词:glasses   玻璃杯
+出现次数:10单词:carry     携带
+出现次数:10单词:red       红色
+出现次数:10单词:flowers   花
+出现次数:10单词:medium    中等的
+出现次数:10单词:cars      汽车
+出现次数:10单词:wants     欲望
+出现次数:10单词:phrases   短语
+出现次数:10单词:ann       安
+出现次数:10单词:false     假的
+出现次数:10单词:idea      主意
+出现次数:10单词:australia 澳大利亚
+出现次数:10单词:vegetable 蔬菜
+出现次数:10单词:cook      烹调
+出现次数:10单词:flat      平的
+出现次数:10单词:secretary 秘书
+出现次数:10单词:police    警方
+出现次数:10单词:interesting 兴趣
+出现次数:10单词:across    穿过
+出现次数:10单词:told      告诉
+出现次数:10单词:player    运动员
+出现次数:10单词:students  学生
+出现次数:10单词:six       六
+出现次数:10单词:double    双重的
+出现次数:10单词:message   消息
+出现次数:10单词:download  下载
+出现次数:10单词:photos    照片
+出现次数:10单词:delete    删除
+出现次数:10单词:types     类型
+出现次数:10单词:walking   行走
+出现次数:10单词:reading   阅读
+出现次数:10单词:poland    波兰
+出现次数:10单词:top       顶部
+出现次数:10单词:garden    花园
+出现次数:10单词:beginning 开始
+出现次数:10单词:steak     牛排
+出现次数:10单词:horse     马
+出现次数:10单词:friday    星期五
+出现次数:10单词:excellent 杰出的
+出现次数:10单词:loves     爱
+出现次数:10单词:africa    非洲
+出现次数:10单词:show      显示
+出现次数:10单词:spanish   西班牙文
+出现次数:10单词:museum    博物馆
+出现次数:10单词:stop      停止
+出现次数:10单词:mean      意思是
+出现次数:10单词:forest    森林
+出现次数:10单词:sheep     羊
+出现次数:10单词:stole     偷
+出现次数:10单词:stolen    偷
+出现次数:10单词:twice     两次
+出现次数:10单词:air       空气
+出现次数:10单词:quickly   迅速地
+出现次数:10单词:blend     混合
+出现次数:9单词:meena      米娜
+出现次数:9单词:without    没有
+出现次数:9单词:been       曾经
+出现次数:9单词:aɪ         aɪ
+出现次数:9单词:little     小的
+出现次数:9单词:tr         tr
+出现次数:9单词:height     高度
+出现次数:9单词:eyes       眼睛
+出现次数:9单词:fair       公平的
+出现次数:9单词:looks      看
+出现次数:9单词:colour     颜色
+出现次数:9单词:sick       生病的
+出现次数:9单词:lives      生活
+出现次数:9单词:exercise   运动
+出现次数:9单词:relax      放松
+出现次数:9单词:hate       憎恨
+出现次数:9单词:hungry     饥饿的
+出现次数:9单词:sport      运动
+出现次数:9单词:saw        锯
+出现次数:9单词:hi         你好
+出现次数:9单词:nice       美好的
+出现次数:9单词:having     有
+出现次数:9单词:return     返回
+出现次数:9单词:present    目前
+出现次数:9单词:free       自由的
+出现次数:9单词:eight      八
+出现次数:9单词:luke       卢克
+出现次数:9单词:could      能够
+出现次数:9单词:potatoes   土豆
+出现次数:9单词:wrong      错误的
+出现次数:9单词:clean      清洁的
+出现次数:9单词:bedside    床边
+出现次数:9单词:control    控制
+出现次数:9单词:sit        坐
+出现次数:9单词:driver     司机
+出现次数:9单词:pencil     铅笔
+出现次数:9单词:paper      纸张
+出现次数:9单词:dvd        数字化视频光盘
+出现次数:9单词:desk       书桌
+出现次数:9单词:exams      考试
+出现次数:9单词:stamp      邮票
+出现次数:9单词:forget     忘记
+出现次数:9单词:screen     屏幕
+出现次数:9单词:york       约克
+出现次数:9单词:france     法国
+出现次数:9单词:concert    音乐会
+出现次数:9单词:coach      教练
+出现次数:9单词:open       打开
+出现次数:9单词:likes      喜欢
+出现次数:9单词:examples   例子
+出现次数:9单词:bar        酒吧
+出现次数:9单词:outside    外部
+出现次数:9单词:non        不
+出现次数:9单词:curry      咖喱
+出现次数:9单词:beef       牛肉
+出现次数:9单词:river      河
+出现次数:9单词:newspapers 报纸
+出现次数:9单词:game       游戏
+出现次数:9单词:railway    铁路
+出现次数:9单词:near       近的
+出现次数:9单词:village    村庄
+出现次数:9单词:farm       农场
+出现次数:9单词:birds      鸟
+出现次数:9单词:wildlife   野生动物
+出现次数:9单词:underground 地下的
+出现次数:9单词:badly      非常
+出现次数:9单词:ago        以前
+出现次数:9单词:dreadful   可怕的
+出现次数:8单词:later      后来
+出现次数:8单词:leg        腿
+出现次数:8单词:skin       皮肤
+出现次数:8单词:mixed      混合的
+出现次数:8单词:stick      粘贴
+出现次数:8单词:hat        帽子
+出现次数:8单词:jeans      牛仔裤
+出现次数:8单词:pair       一对
+出现次数:8单词:suitcase   手提箱
+出现次数:8单词:dressed    穿着衣服的
+出现次数:8单词:laptop     笔记本电脑
+出现次数:8单词:thin       薄的
+出现次数:8单词:pretty     漂亮的
+出现次数:8单词:basketball 篮球
+出现次数:8单词:problem    问题
+出现次数:8单词:smoking    吸烟
+出现次数:8单词:angry      愤怒的
+出现次数:8单词:cats       猫
+出现次数:8单词:ice        冰
+出现次数:8单词:cream      奶油
+出现次数:8单词:informal   非正式的
+出现次数:8单词:special    特殊的
+出现次数:8单词:driving    驱动
+出现次数:8单词:test       测试
+出现次数:8单词:january    一月
+出现次数:8单词:drive      开车
+出现次数:8单词:languages  语言
+出现次数:8单词:vera       维拉
+出现次数:8单词:popular    流行的
+出现次数:8单词:apple      苹果
+出现次数:8单词:japan      日本
+出现次数:8单词:cupboard   橱柜
+出现次数:8单词:pan        平底锅
+出现次数:8单词:cooking    烹饪
+出现次数:8单词:dry        干的
+出现次数:8单词:lamp       灯
+出现次数:8单词:window     窗口
+出现次数:8单词:television 电视
+出现次数:8单词:close      关闭
+出现次数:8单词:board      板
+出现次数:8单词:units      单位
+出现次数:8单词:mouse      老鼠
+出现次数:8单词:memory     记忆
+出现次数:8单词:nick       刻痕
+出现次数:8单词:case       案例
+出现次数:8单词:bought     买了
+出现次数:8单词:holidays   假期
+出现次数:8单词:egypt      埃及
+出现次数:8单词:another    另一个
+出现次数:8单词:madrid     马德里
+出现次数:8单词:department 部门
+出现次数:8单词:newsagent  报刊经销人
+出现次数:8单词:add        添加
+出现次数:8单词:size       大小
+出现次数:8单词:cost       成本
+出现次数:8单词:notes      笔记
+出现次数:8单词:cards      卡
+出现次数:8单词:basket     篮子
+出现次数:8单词:price      价格
+出现次数:8单词:november   十一月
+出现次数:8单词:reviews    评论
+出现次数:8单词:cambridge  剑桥
+出现次数:8单词:sea        海
+出现次数:8单词:romantic   浪漫的
+出现次数:8单词:rugby      橄榄球
+出现次数:8单词:american   美国人
+出现次数:8单词:comedy     喜剧片
+出现次数:8单词:programmes 节目
+出现次数:8单词:video      视频
+出现次数:8单词:stories    故事
+出现次数:8单词:round      圆形的
+出现次数:8单词:sunday     星期日
+出现次数:8单词:instruments 仪器
+出现次数:8单词:band       乐队
+出现次数:8单词:flute      长笛
+出现次数:8单词:violin     小提琴
+出现次数:8单词:america    美国
+出现次数:8单词:german     德文
+出现次数:8单词:japanese   日本人
+出现次数:8单词:windy      多风的
+出现次数:8单词:degrees    度
+出现次数:8单词:together   在一起
+出现次数:8单词:spring     春天
+出现次数:8单词:area       地区
+出现次数:8单词:tourist    旅行者
+出现次数:8单词:keep       保持
+出现次数:8单词:mountains  山
+出现次数:8单词:airport    机场
+出现次数:8单词:crime      罪行
+出现次数:8单词:broke      打破了
+出现次数:8单词:broken     破碎的
+出现次数:8单词:steal      偷
+出现次数:8单词:drugs      药物
+出现次数:8单词:question   问题
+出现次数:8单词:channel    频道
+出现次数:8单词:untidy     不整洁的
+出现次数:8单词:fire       火
+出现次数:8单词:crash      崩溃
+出现次数:8单词:terrible   可怕的
+出现次数:8单词:speaking   讲话
+出现次数:8单词:mum        妈妈
+出现次数:8单词:april      四月
+出现次数:8单词:won        赢了
+出现次数:8单词:fell       摔倒
+出现次数:8单词:swimmer    游泳者
+出现次数:8单词:impossible 不可能的
+出现次数:8单词:borrow     借
+出现次数:8单词:tel        电话
+出现次数:8单词:photodisc  光碟
+出现次数:8单词:tl         热释光
+出现次数:8单词:illustration 插图
+出现次数:7单词:ivan       伊万
+出现次数:7单词:diana      戴安娜
+出现次数:7单词:amelia     阿米莉亚
+出现次数:7单词:husband    丈夫
+出现次数:7单词:uncle      叔叔
+出现次数:7单词:sisters    姐妹
+出现次数:7单词:death      死亡
+出现次数:7单词:anna       安娜
+出现次数:7单词:dead       死去的
+出现次数:7单词:daniel     丹尼尔
+出现次数:7单词:face       面对
+出现次数:7单词:foot       脚
+出现次数:7单词:chest      胸部
+出现次数:7单词:pain       疼痛
+出现次数:7单词:type       类型
+出现次数:7单词:dirty      肮脏的
+出现次数:7单词:bag        纸袋
+出现次数:7单词:shorts     短裤
+出现次数:7单词:tom        汤姆
+出现次数:7单词:weigh      权衡
+出现次数:7单词:brown      棕色的
+出现次数:7单词:young      年轻的
+出现次数:7单词:aged       年老的…岁
+出现次数:7单词:seven      七
+出现次数:7单词:headache   头痛
+出现次数:7单词:toothache  牙痛
+出现次数:7单词:grass      草
+出现次数:7单词:pollution  污染
+出现次数:7单词:sightseeing 观光
+出现次数:7单词:cheers     干杯
+出现次数:7单词:stand      站
+出现次数:7单词:reply      回复
+出现次数:7单词:anyway     无论如何
+出现次数:7单词:expensive  昂贵的
+出现次数:7单词:rice       大米
+出现次数:7单词:sugar      糖
+出现次数:7单词:beans      豆
+出现次数:7单词:kinds      种类
+出现次数:7单词:try        尝试
+出现次数:7单词:shelf      架子
+出现次数:7单词:fridge     冰箱
+出现次数:7单词:towel      毛巾
+出现次数:7单词:frying     油炸
+出现次数:7单词:alarm      警报
+出现次数:7单词:soap       肥皂
+出现次数:7单词:curtains   窗帘
+出现次数:7单词:nothing    没有什么
+出现次数:7单词:jobs       工作
+出现次数:7单词:nurse      护士
+出现次数:7单词:farmer     农民
+出现次数:7单词:officer    官员
+出现次数:7单词:sam        山姆
+出现次数:7单词:plants     植物
+出现次数:7单词:cover      盖
+出现次数:7单词:below      在下面
+出现次数:7单词:column     柱
+出现次数:7单词:emails     电子邮件
+出现次数:7单词:telephone  电话
+出现次数:7单词:maria      玛丽亚
+出现次数:7单词:asked      问
+出现次数:7单词:transport  运输
+出现次数:7单词:ferry      摆渡
+出现次数:7单词:talking    说话
+出现次数:7单词:sells      卖
+出现次数:7单词:ground     地面
+出现次数:7单词:thing      事情
+出现次数:7单词:view       看法
+出现次数:7单词:menu       菜单
+出现次数:7单词:soup       汤
+出现次数:7单词:main       主要的
+出现次数:7单词:rare       稀有的
+出现次数:7单词:gone       跑了
+出现次数:7单词:star       明星
+出现次数:7单词:dancing    跳舞
+出现次数:7单词:playing    玩
+出现次数:7单词:instrument 仪器
+出现次数:7单词:hall       大厅
+出现次数:7单词:china      中国
+出现次数:7单词:lake       湖
+出现次数:7单词:hurricane  飓风
+出现次数:7单词:august     八月
+出现次数:7单词:cow        奶牛
+出现次数:7单词:hen        母鸡
+出现次数:7单词:lamb       羔羊
+出现次数:7单词:eggs       鸡蛋
+出现次数:7单词:monkey     猴子
+出现次数:7单词:elephant   大象
+出现次数:7单词:february   二月
+出现次数:7单词:roast      烤
+出现次数:7单词:thief      小偷
+出现次数:7单词:sell       卖
+出现次数:7单词:prison     监狱
+出现次数:7单词:mood       情绪
+出现次数:7单词:rush       冲
+出现次数:7单词:bath       洗澡
+出现次数:7单词:slowly     缓慢地
+出现次数:7单词:victoria   维多利亚
+出现次数:7单词:choice     选择
+出现次数:7单词:tuesday    星期二
+出现次数:7单词:meanings   意义
+出现次数:7单词:story      故事
+出现次数:7单词:seasons    季节
+出现次数:7单词:wednesday  星期三
+出现次数:7单词:front      前面
+出现次数:7单词:slow       缓慢的
+出现次数:7单词:forward    向前地
+出现次数:7单词:lose       失去
+出现次数:7单词:loose      释放
+出现次数:7单词:lend       借给
+出现次数:7单词:bl         基本法
+出现次数:7单词:ebook      电子书
+出现次数:6单词:henry      亨利
+出现次数:6单词:george     乔治
+出现次数:6单词:daughter   女儿
+出现次数:6单词:honeymoon  蜜月
+出现次数:6单词:age        年龄
+出现次数:6单词:head       头
+出现次数:6单词:eye        眼睛
+出现次数:6单词:nose       鼻子
+出现次数:6单词:arm        臂
+出现次数:6单词:knee       膝
+出现次数:6单词:finger     手指
+出现次数:6单词:feet       脚
+出现次数:6单词:needs      需要
+出现次数:6单词:scarf      围巾
+出现次数:6单词:suit       适合
+出现次数:6单词:skirt      短裙
+出现次数:6单词:belt       皮带
+出现次数:6单词:pyjamas    睡衣
+出现次数:6单词:interview  采访
+出现次数:6单词:green      绿色
+出现次数:6单词:black      黑色
+出现次数:6单词:cat        猫
+出现次数:6单词:diet       饮食
+出现次数:6单词:blonde     金发女郎
+出现次数:6单词:beard      胡须
+出现次数:6单词:women      女人
+出现次数:6单词:heavy      重的
+出现次数:6单词:careful    仔细的
+出现次数:6单词:probably   可能
+出现次数:6单词:everyday   每天的
+出现次数:6单词:thirsty    口渴的
+出现次数:6单词:surprised  惊讶
+出现次数:6单词:taking     拿
+出现次数:6单词:congratulations 祝贺
+出现次数:6单词:between    之间
+出现次数:6单词:reality    现实
+出现次数:6单词:mind       介意
+出现次数:6单词:coming     即将到来
+出现次数:6单词:marta      玛尔塔
+出现次数:6单词:boring     没趣的
+出现次数:6单词:enough     足够地
+出现次数:6单词:dialogue   对话
+出现次数:6单词:chinese    中国人
+出现次数:6单词:pineapple  菠萝
+出现次数:6单词:orange     橙色
+出现次数:6单词:drinks     饮料
+出现次数:6单词:piece      块
+出现次数:6单词:kind       友善的
+出现次数:6单词:cloth      布
+出现次数:6单词:mug        杯子
+出现次数:6单词:plates     盘子
+出现次数:6单词:bottom     底部
+出现次数:6单词:drawers    抽屉
+出现次数:6单词:hairbrush  发刷
+出现次数:6单词:emma       艾玛
+出现次数:6单词:haven      港口
+出现次数:6单词:switch     转换
+出现次数:6单词:engineer   工程师
+出现次数:6单词:beauty     美女
+出现次数:6单词:rubber     橡胶
+出现次数:6单词:world      世界
+出现次数:6单词:easy       容易的
+出现次数:6单词:date       日期
+出现次数:6单词:com        通用域名格式
+出现次数:6单词:voicemail  语音信箱
+出现次数:6单词:battery    电池
+出现次数:6单词:sim        模拟
+出现次数:6单词:save       拯救
+出现次数:6单词:hong       商行
+出现次数:6单词:kong       香港
+出现次数:6单词:tickets    票
+出现次数:6单词:rucksack   背包
+出现次数:6单词:postcard   明信片
+出现次数:6单词:butcher    屠夫
+出现次数:6单词:store      商店
+出现次数:6单词:definitions 定义
+出现次数:6单词:ready      准备好的
+出现次数:6单词:group      组
+出现次数:6单词:games      游戏
+出现次数:6单词:badminton  羽毛球
+出现次数:6单词:running    跑步
+出现次数:6单词:racing     赛马
+出现次数:6单词:kayaking   皮艇运动
+出现次数:6单词:judo       柔道
+出现次数:6单词:towns      城镇
+出现次数:6单词:cartoon    卡通
+出现次数:6单词:james      詹姆斯
+出现次数:6单词:life       生活
+出现次数:6单词:musician   音乐家
+出现次数:6单词:trumpet    小号
+出现次数:6单词:classical  古典的
+出现次数:6单词:pop        流行音乐
+出现次数:6单词:north      北
+出现次数:6单词:canada     加拿大
+出现次数:6单词:thailand   泰国
+出现次数:6单词:lightning  闪电
+出现次数:6单词:map        地图
+出现次数:6单词:pig        猪
+出现次数:6单词:goat       山羊
+出现次数:6单词:animal     动物
+出现次数:6单词:lion       狮子
+出现次数:6单词:parrot     鹦鹉
+出现次数:6单词:customs    海关
+出现次数:6单词:trains     火车
+出现次数:6单词:flight     航班
+出现次数:6单词:boyfriend  男朋友
+出现次数:6单词:oven       烤箱
+出现次数:6单词:steals     偷
+出现次数:6单词:mistake    错误
+出现次数:6单词:drives     驱动力
+出现次数:6单词:media      媒体
+出现次数:6单词:lost       迷路的
+出现次数:6单词:catch      抓住
+出现次数:6单词:war        战争
+出现次数:6单词:started    起动
+出现次数:6单词:strike     罢工
+出现次数:6单词:jam        果酱
+出现次数:6单词:aunt       阿姨
+出现次数:6单词:noise      噪音
+出现次数:6单词:own        拥有
+出现次数:6单词:loud       大声的
+出现次数:6单词:thursday   星期四
+出现次数:6单词:fall       落下
+出现次数:6单词:start      开始
+出现次数:6单词:moved      感动的
+出现次数:6单词:adverbs    副词
+出现次数:6单词:abroad     国外
+出现次数:6单词:loudly     大声地
+出现次数:6单词:proud      自豪的
+出现次数:6单词:redo       重做
+出现次数:6单词:forms      形式
+出现次数:6单词:worker     工人
+出现次数:6单词:useless    无用的
+出现次数:6单词:bæk        bæk
+出现次数:6单词:deɪ        德ɪ
+出现次数:6单词:br         溴
+出现次数:6单词:photolibrary 照片库
+出现次数:6单词:beehive    蜂巢
+出现次数:5单词:son
+出现次数:5单词:child
+出现次数:5单词:plural
+出现次数:5单词:marriage
+出现次数:5单词:wedding
+出现次数:5单词:divorced
+出现次数:5单词:formal
+出现次数:5单词:bride
+出现次数:5单词:tooth
+出现次数:5单词:shoulder
+出现次数:5单词:rest
+出现次数:5单词:illness
+出现次数:5单词:already
+出现次数:5单词:ball
+出现次数:5单词:crossword
+出现次数:5单词:jacket
+出现次数:5单词:trainers
+出现次数:5单词:socks
+出现次数:5单词:dress
+出现次数:5单词:ring
+出现次数:5单词:tights
+出现次数:5单词:undressed
+出现次数:5单词:papers
+出现次数:5单词:slim
+出现次数:5单词:high
+出现次数:5单词:ugly
+出现次数:5单词:aspirin
+出现次数:5单词:dentist
+出现次数:5单词:stressed
+出现次数:5单词:early
+出现次数:5单词:ever
+出现次数:5单词:horror
+出现次数:5单词:bit
+出现次数:5单词:flying
+出现次数:5单词:jazz
+出现次数:5单词:goodnight
+出现次数:5单词:through
+出现次数:5单词:crowded
+出现次数:5单词:conversation
+出现次数:5单词:actually
+出现次数:5单词:around
+出现次数:5单词:dear
+出现次数:5单词:matter
+出现次数:5单词:pity
+出现次数:5单词:salt
+出现次数:5单词:garlic
+出现次数:5单词:pear
+出现次数:5单词:beer
+出现次数:5单词:supermarket
+出现次数:5单词:fun
+出现次数:5单词:microwave
+出现次数:5单词:sink
+出现次数:5单词:spoon
+出现次数:5单词:under
+出现次数:5单词:comb
+出现次数:5单词:wardrobe
+出现次数:5单词:upstairs
+出现次数:5单词:numbers
+出现次数:5单词:describe
+出现次数:5单词:lee
+出现次数:5单词:large
+出现次数:5单词:sofa
+出现次数:5单词:remote
+出现次数:5单词:mechanic
+出现次数:5单词:geography
+出现次数:5单词:pe
+出现次数:5单词:physics
+出现次数:5单词:envelope
+出现次数:5单词:keyboard
+出现次数:5单词:dot
+出现次数:5单词:device
+出现次数:5单词:search
+出现次数:5单词:called
+出现次数:5单词:charger
+出现次数:5单词:app
+出现次数:5单词:swipe
+出现次数:5单词:emily
+出现次数:5单词:shows
+出现次数:5单词:sure
+出现次数:5单词:taken
+出现次数:5单词:recently
+出现次数:5单词:currency
+出现次数:5单词:local
+出现次数:5单词:everything
+出现次数:5单词:switzerland
+出现次数:5单词:fly
+出现次数:5单词:baker
+出现次数:5单词:gift
+出现次数:5单词:third
+出现次数:5单词:basement
+出现次数:5单词:michael
+出现次数:5单词:buying
+出现次数:5单词:waiting
+出现次数:5单词:care
+出现次数:5单词:reception
+出现次数:5单词:hairdryer
+出现次数:5单词:reservation
+出现次数:5单词:volleyball
+出现次数:5单词:sailing
+出现次数:5单词:karate
+出现次数:5单词:court
+出现次数:5单词:western
+出现次数:5单词:thriller
+出现次数:5单词:science
+出现次数:5单词:fiction
+出现次数:5单词:dvds
+出现次数:5单词:rob
+出现次数:5单词:chat
+出现次数:5单词:activities
+出现次数:5单词:cello
+出现次数:5单词:drums
+出现次数:5单词:clarinet
+出现次数:5单词:studying
+出现次数:5单词:argentina
+出现次数:5单词:asia
+出现次数:5单词:brazil
+出现次数:5单词:morocco
+出现次数:5单词:begin
+出现次数:5单词:few
+出现次数:5单词:french
+出现次数:5单词:cities
+出现次数:5单词:tokyo
+出现次数:5单词:mount
+出现次数:5单词:fog
+出现次数:5单词:thunder
+出现次数:5单词:rainy
+出现次数:5单词:cloudy
+出现次数:5单词:snowy
+出现次数:5单词:foggy
+出现次数:5单词:strong
+出现次数:5单词:directions
+出现次数:5单词:notice
+出现次数:5单词:hills
+出现次数:5单词:path
+出现次数:5单词:along
+出现次数:5单词:interested
+出现次数:5单词:zoo
+出现次数:5单词:tiger
+出现次数:5单词:motorbike
+出现次数:5单词:timetable
+出现次数:5单词:seat
+出现次数:5单词:easter
+出现次数:5单词:october
+出现次数:5单词:bonfire
+出现次数:5单词:houses
+出现次数:5单词:prime
+出现次数:5单词:minister
+出现次数:5单词:drug
+出现次数:5单词:sold
+出现次数:5单词:keys
+出现次数:5单词:happen
+出现次数:5单词:tidy
+出现次数:5单词:row
+出现次数:5单词:snowstorm
+出现次数:5单词:homeless
+出现次数:5单词:hurt
+出现次数:5单词:class
+出现次数:5单词:fishing
+出现次数:5单词:less
+出现次数:5单词:appointment
+出现次数:5单词:arrived
+出现次数:5单词:theatre
+出现次数:5单词:normally
+出现次数:5单词:run
+出现次数:5单词:conjunctions
+出现次数:5单词:decided
+出现次数:5单词:leap
+出现次数:5单词:september
+出现次数:5单词:met
+出现次数:5单词:fridays
+出现次数:5单词:speaks
+出现次数:5单词:unhappy
+出现次数:5单词:countable
+出现次数:5单词:advice
+出现次数:5单词:accommodation
+出现次数:5单词:spaghetti
+出现次数:5单词:javier
+出现次数:5单词:prefixes
+出现次数:5单词:suffixes
+出现次数:5单词:endless
+出现次数:5单词:sandy
+出现次数:5单词:wel
+出现次数:5单词:weɪ
+出现次数:5单词:pleɪ
+出现次数:5单词:weə
+出现次数:5单词:cultura
+出现次数:5单词:afp
+出现次数:4单词:grandparents
+出现次数:4单词:niece
+出现次数:4单词:brothers
+出现次数:4单词:singular
+出现次数:4单词:birth
+出现次数:4单词:sarah
+出现次数:4单词:neck
+出现次数:4单词:waist
+出现次数:4单词:stomach
+出现次数:4单词:inside
+出现次数:4单词:blood
+出现次数:4单词:hands
+出现次数:4单词:chair
+出现次数:4单词:boots
+出现次数:4单词:tie
+出现次数:4单词:jumper
+出现次数:4单词:handbag
+出现次数:4单词:julia
+出现次数:4单词:shoe
+出现次数:4单词:polite
+出现次数:4单词:overweight
+出现次数:4单词:fat
+出现次数:4单词:ben
+出现次数:4单词:moustache
+出现次数:4单词:dad
+出现次数:4单词:girls
+出现次数:4单词:average
+出现次数:4单词:elderly
+出现次数:4单词:metres
+出现次数:4单词:metre
+出现次数:4单词:perhaps
+出现次数:4单词:hay
+出现次数:4单词:fever
+出现次数:4单词:illnesses
+出现次数:4单词:dogs
+出现次数:4单词:strawberry
+出现次数:4单词:feels
+出现次数:4单词:conversations
+出现次数:4单词:bless
+出现次数:4单词:luck
+出现次数:4单词:passed
+出现次数:4单词:phrase
+出现次数:4单词:says
+出现次数:4单词:anything
+出现次数:4单词:hurry
+出现次数:4单词:quick
+出现次数:4单词:absolutely
+出现次数:4单词:seen
+出现次数:4单词:britain
+出现次数:4单词:mushrooms
+出现次数:4单词:freezer
+出现次数:4单词:tap
+出现次数:4单词:worktop
+出现次数:4单词:teapot
+出现次数:4单词:saucepan
+出现次数:4单词:roll
+出现次数:4单词:liquid
+出现次数:4单词:fork
+出现次数:4单词:plate
+出现次数:4单词:dressing
+出现次数:4单词:mirror
+出现次数:4单词:toothpaste
+出现次数:4单词:toothbrush
+出现次数:4单词:gel
+出现次数:4单词:asleep
+出现次数:4单词:rings
+出现次数:4单词:downstairs
+出现次数:4单词:fi
+出现次数:4单词:armchair
+出现次数:4单词:wall
+出现次数:4单词:watched
+出现次数:4单词:draw
+出现次数:4单词:warden
+出现次数:4单词:librarian
+出现次数:4单词:clerk
+出现次数:4单词:sophie
+出现次数:4单词:writes
+出现次数:4单词:roads
+出现次数:4单词:subjects
+出现次数:4单词:modern
+出现次数:4单词:drawing
+出现次数:4单词:sharpener
+出现次数:4单词:degree
+出现次数:4单词:columns
+出现次数:4单词:bye
+出现次数:4单词:apps
+出现次数:4单词:selfie
+出现次数:4单词:full
+出现次数:4单词:ones
+出现次数:4单词:package
+出现次数:4单词:camping
+出现次数:4单词:tour
+出现次数:4单词:enjoy
+出现次数:4单词:moving
+出现次数:4单词:relaxing
+出现次数:4单词:bookshop
+出现次数:4单词:fourth
+出现次数:4单词:smaller
+出现次数:4单词:language
+出现次数:4单词:mini
+出现次数:4单词:service
+出现次数:4单词:exchange
+出现次数:4单词:snack
+出现次数:4单词:cake
+出现次数:4单词:pie
+出现次数:4单词:tomato
+出现次数:4单词:tourists
+出现次数:4单词:motor
+出现次数:4单词:action
+出现次数:4单词:bond
+出现次数:4单词:loved
+出现次数:4单词:picnic
+出现次数:4单词:found
+出现次数:4单词:headphones
+出现次数:4单词:king
+出现次数:4单词:isabella
+出现次数:4单词:orchestra
+出现次数:4单词:violinist
+出现次数:4单词:pianist
+出现次数:4单词:opera
+出现次数:4单词:folk
+出现次数:4单词:william
+出现次数:4单词:nationalities
+出现次数:4单词:india
+出现次数:4单词:chile
+出现次数:4单词:colombia
+出现次数:4单词:europe
+出现次数:4单词:australian
+出现次数:4单词:indian
+出现次数:4单词:polish
+出现次数:4单词:thai
+出现次数:4单词:wagga
+出现次数:4单词:cloud
+出现次数:4单词:barcelona
+出现次数:4单词:seoul
+出现次数:4单词:snows
+出现次数:4单词:library
+出现次数:4单词:pedestrian
+出现次数:4单词:entrance
+出现次数:4单词:conservation
+出现次数:4单词:national
+出现次数:4单词:twenty
+出现次数:4单词:calf
+出现次数:4单词:pork
+出现次数:4单词:piglet
+出现次数:4单词:chick
+出现次数:4单词:giraffe
+出现次数:4单词:tortoise
+出现次数:4单词:ship
+出现次数:4单词:platform
+出现次数:4单词:leaves
+出现次数:4单词:boarding
+出现次数:4单词:land
+出现次数:4单词:planes
+出现次数:4单词:sing
+出现次数:4单词:closed
+出现次数:4单词:yorkshire
+出现次数:4单词:tikka
+出现次数:4单词:masala
+出现次数:4单词:primary
+出现次数:4单词:secondary
+出现次数:4单词:state
+出现次数:4单词:private
+出现次数:4单词:co
+出现次数:4单词:murderer
+出现次数:4单词:burglar
+出现次数:4单词:break
+出现次数:4单词:shoplifting
+出现次数:4单词:vandals
+出现次数:4单词:trees
+出现次数:4单词:teenage
+出现次数:4单词:mend
+出现次数:4单词:colleague
+出现次数:4单词:crashed
+出现次数:4单词:wasn
+出现次数:4单词:global
+出现次数:4单词:moves
+出现次数:4单词:unemployed
+出现次数:4单词:easily
+出现次数:4单词:writing
+出现次数:4单词:essay
+出现次数:4单词:belong
+出现次数:4单词:shut
+出现次数:4单词:jo
+出现次数:4单词:hill
+出现次数:4单词:housework
+出现次数:4单词:boy
+出现次数:4单词:wales
+出现次数:4单词:pavel
+出现次数:4单词:song
+出现次数:4单词:similar
+出现次数:4单词:photographs
+出现次数:4单词:apples
+出现次数:4单词:david
+出现次数:4单词:sat
+出现次数:4单词:ran
+出现次数:4单词:followed
+出现次数:4单词:joke
+出现次数:4单词:happened
+出现次数:4单词:swims
+出现次数:4单词:autumn
+出现次数:4单词:thirty
+出现次数:4单词:rarely
+出现次数:4单词:rosa
+出现次数:4单词:everywhere
+出现次数:4单词:manner
+出现次数:4单词:quietly
+出现次数:4单词:friendly
+出现次数:4单词:hard
+出现次数:4单词:butter
+出现次数:4单词:brilliant
+出现次数:4单词:marvellous
+出现次数:4单词:nasty
+出现次数:4单词:belongs
+出现次数:4单词:afraid
+出现次数:4单词:rewrite
+出现次数:4单词:unsafe
+出现次数:4单词:er
+出现次数:4单词:instructor
+出现次数:4单词:happily
+出现次数:4单词:hens
+出现次数:4单词:thought
+出现次数:4单词:irregular
+出现次数:4单词:photographer
+出现次数:4单词:hemera
+出现次数:4单词:dorling
+出现次数:4单词:kindersley
+出现次数:4单词:productions
+出现次数:3单词:granddaughter
+出现次数:3单词:nephew
+出现次数:3单词:cousins
+出现次数:3单词:wives
+出现次数:3单词:groom
+出现次数:3单词:funeral
+出现次数:3单词:smith
+出现次数:3单词:christopher
+出现次数:3单词:kelly
+出现次数:3单词:ear
+出现次数:3单词:thumb
+出现次数:3单词:brain
+出现次数:3单词:pronunciation
+出现次数:3单词:katie
+出现次数:3单词:health
+出现次数:3单词:symbol
+出现次数:3单词:girl
+出现次数:3单词:sunglasses
+出现次数:3单词:carrying
+出现次数:3单词:putting
+出现次数:3单词:sh
+出现次数:3单词:lucy
+出现次数:3单词:item
+出现次数:3单词:grey
+出现次数:3单词:weight
+出现次数:3单词:bettina
+出现次数:3单词:suri
+出现次数:3单词:kilos
+出现次数:3单词:mike
+出现次数:3单词:anika
+出现次数:3单词:stefan
+出现次数:3单词:serious
+出现次数:3单词:sneeze
+出现次数:3单词:asthma
+出现次数:3单词:mosquito
+出现次数:3单词:malaria
+出现次数:3单词:drinking
+出现次数:3单词:cholera
+出现次数:3单词:cancer
+出现次数:3单词:kills
+出现次数:3单词:healthy
+出现次数:3单词:treatment
+出现次数:3单词:feelings
+出现次数:3单词:spiders
+出现次数:3单词:upset
+出现次数:3单词:fiona
+出现次数:3单词:max
+出现次数:3单词:greetings
+出现次数:3单词:merry
+出现次数:3单词:difficult
+出现次数:3单词:fit
+出现次数:3单词:saying
+出现次数:3单词:subject
+出现次数:3单词:suggestion
+出现次数:3单词:forgot
+出现次数:3单词:expression
+出现次数:3单词:pasta
+出现次数:3单词:pepper
+出现次数:3单词:vegetarian
+出现次数:3单词:zealand
+出现次数:3单词:onions
+出现次数:3单词:banana
+出现次数:3单词:grapes
+出现次数:3单词:mineral
+出现次数:3单词:wine
+出现次数:3单词:carrot
+出现次数:3单词:vegetarians
+出现次数:3单词:sound
+出现次数:3单词:bin
+出现次数:3单词:dishwasher
+出现次数:3单词:maker
+出现次数:3单词:chopsticks
+出现次数:3单词:knife
+出现次数:3单词:bowl
+出现次数:3单词:basin
+出现次数:3单词:razor
+出现次数:3单词:toilet
+出现次数:3单词:shampoo
+出现次数:3单词:routine
+出现次数:3单词:falls
+出现次数:3单词:bookshelf
+出现次数:3单词:bookshelves
+出现次数:3单词:rug
+出现次数:3单词:carpet
+出现次数:3单词:factory
+出现次数:3单词:worked
+出现次数:3单词:salon
+出现次数:3单词:history
+出现次数:3单词:biology
+出现次数:3单词:art
+出现次数:3单词:ict
+出现次数:3单词:education
+出现次数:3单词:chemistry
+出现次数:3单词:noticeboard
+出现次数:3单词:textbook
+出现次数:3单词:ruler
+出现次数:3单词:whiteboard
+出现次数:3单词:fail
+出现次数:3单词:final
+出现次数:3单词:seconds
+出现次数:3单词:ethan
+出现次数:3单词:translation
+出现次数:3单词:definition
+出现次数:3单词:juan
+出现次数:3单词:smartphone
+出现次数:3单词:sue
+出现次数:3单词:power
+出现次数:3单词:button
+出现次数:3单词:while
+出现次数:3单词:unlock
+出现次数:3单词:until
+出现次数:3单词:deepa
+出现次数:3单词:ireena
+出现次数:3单词:included
+出现次数:3单词:visa
+出现次数:3单词:england
+出现次数:3单词:nightlife
+出现次数:3单词:clubs
+出现次数:3单词:chemist
+出现次数:3单词:toys
+出现次数:3单词:men
+出现次数:3单词:tries
+出现次数:3单词:cheque
+出现次数:3单词:debit
+出现次数:3单词:receipt
+出现次数:3单词:carrier
+出现次数:3单词:lipstick
+出现次数:3单词:sign
+出现次数:3单词:shirts
+出现次数:3单词:zip
+出现次数:3单词:paid
+出现次数:3单词:busy
+出现次数:3单词:wait
+出现次数:3单词:receptionist
+出现次数:3单词:line
+出现次数:3单词:leaving
+出现次数:3单词:pub
+出现次数:3单词:alcohol
+出现次数:3单词:burger
+出现次数:3单词:delicious
+出现次数:3单词:baseball
+出现次数:3单词:snowboarding
+出现次数:3单词:pitch
+出现次数:3单词:pages
+出现次数:3单词:played
+出现次数:3单词:lands
+出现次数:3单词:novels
+出现次数:3单词:rock
+出现次数:3单词:mason
+出现次数:3单词:madison
+出现次数:3单词:noah
+出现次数:3单词:ella
+出现次数:3单词:continents
+出现次数:3单词:continent
+出现次数:3单词:pakistan
+出现次数:3单词:peru
+出现次数:3单词:antarctica
+出现次数:3单词:its
+出现次数:3单词:argentinian
+出现次数:3单词:egyptian
+出现次数:3单词:peruvian
+出现次数:3单词:portuguese
+出现次数:3单词:arabic
+出现次数:3单词:cairo
+出现次数:3单词:mexico
+出现次数:3单词:sahara
+出现次数:3单词:minus
+出现次数:3单词:storm
+出现次数:3单词:snowing
+出现次数:3单词:warm
+出现次数:3单词:symbols
+出现次数:3单词:washington
+出现次数:3单词:shone
+出现次数:3单词:boat
+出现次数:3单词:thunderstorms
+出现次数:3单词:ri
+出现次数:3单词:market
+出现次数:3单词:nearest
+出现次数:3单词:wood
+出现次数:3单词:fields
+出现次数:3单词:cottage
+出现次数:3单词:natural
+出现次数:3单词:mountain
+出现次数:3单词:produce
+出现次数:3单词:kid
+出现次数:3单词:snake
+出现次数:3单词:pets
+出现次数:3单词:rabbit
+出现次数:3单词:bird
+出现次数:3单词:feed
+出现次数:3单词:lions
+出现次数:3单词:helicopter
+出现次数:3单词:motorcycle
+出现次数:3单词:direct
+出现次数:3单词:petrol
+出现次数:3单词:eve
+出现次数:3单词:dance
+出现次数:3单词:hogmanay
+出现次数:3单词:valentine
+出现次数:3单词:halloween
+出现次数:3单词:traditional
+出现次数:3单词:pudding
+出现次数:3单词:nursery
+出现次数:3单词:royal
+出现次数:3单词:queen
+出现次数:3单词:political
+出现次数:3单词:parliament
+出现次数:3单词:bbc
+出现次数:3单词:articles
+出现次数:3单词:murder
+出现次数:3单词:burglary
+出现次数:3单词:robber
+出现次数:3单词:mugger
+出现次数:3单词:dealer
+出现次数:3单词:shoplifter
+出现次数:3单词:west
+出现次数:3单词:murdered
+出现次数:3单词:guilty
+出现次数:3单词:innocent
+出现次数:3单词:windows
+出现次数:3单词:hooligan
+出现次数:3单词:teenager
+出现次数:3单词:terrorists
+出现次数:3单词:documentary
+出现次数:3单词:adverts
+出现次数:3单词:journalist
+出现次数:3单词:oxford
+出现次数:3单词:boys
+出现次数:3单词:anyone
+出现次数:3单词:reporter
+出现次数:3单词:sky
+出现次数:3单词:repair
+出现次数:3单词:dying
+出现次数:3单词:apologise
+出现次数:3单词:photocopier
+出现次数:3单词:being
+出现次数:3单词:earth
+出现次数:3单词:poor
+出现次数:3单词:polluted
+出现次数:3单词:jams
+出现次数:3单词:move
+出现次数:3单词:visit
+出现次数:3单词:ing
+出现次数:3单词:general
+出现次数:3单词:saturdays
+出现次数:3单词:lara
+出现次数:3单词:atkins
+出现次数:3单词:hicks
+出现次数:3单词:cooper
+出现次数:3单词:hailey
+出现次数:3单词:teach
+出现次数:3单词:taught
+出现次数:3单词:photocopy
+出现次数:3单词:mess
+出现次数:3单词:yet
+出现次数:3单词:appropriate
+出现次数:3单词:weeks
+出现次数:3单词:alan
+出现次数:3单词:grace
+出现次数:3单词:photograph
+出现次数:3单词:russian
+出现次数:3单词:brings
+出现次数:3单词:finished
+出现次数:3单词:josé
+出现次数:3单词:turned
+出现次数:3单词:wanted
+出现次数:3单词:joanna
+出现次数:3单词:danced
+出现次数:3单词:swam
+出现次数:3单词:rode
+出现次数:3单词:drove
+出现次数:3单词:flew
+出现次数:3单词:lady
+出现次数:3单词:rains
+出现次数:3单词:climbing
+出现次数:3单词:connecting
+出现次数:3单词:adverb
+出现次数:3单词:blake
+出现次数:3单词:liked
+出现次数:3单词:navy
+出现次数:3单词:nine
+出现次数:3单词:fortnight
+出现次数:3单词:march
+出现次数:3单词:except
+出现次数:3单词:frequency
+出现次数:3单词:occasionally
+出现次数:3单词:preposition
+出现次数:3单词:longer
+出现次数:3单词:unfriendly
+出现次数:3单词:suddenly
+出现次数:3单词:cows
+出现次数:3单词:perfect
+出现次数:3单词:thinking
+出现次数:3单词:thanked
+出现次数:3单词:apologised
+出现次数:3单词:medal
+出现次数:3单词:artur
+出现次数:3单词:club
+出现次数:3单词:hiroshi
+出现次数:3单词:understand
+出现次数:3单词:heat
+出现次数:3单词:costs
+出现次数:3单词:calculator
+出现次数:3单词:happiness
+出现次数:3单词:sadness
+出现次数:3单词:smile
+出现次数:3单词:slept
+出现次数:3单词:sounds
+出现次数:3单词:higher
+出现次数:3单词:expecting
+出现次数:3单词:cousin
+出现次数:3单词:luis
+出现次数:3单词:jorge
+出现次数:3单词:pizza
+出现次数:3单词:steve
+出现次数:3单词:pull
+出现次数:3单词:corner
+出现次数:3单词:exit
+出现次数:3单词:chickens
+出现次数:3单词:parrots
+出现次数:3单词:snakes
+出现次数:3单词:flood
+出现次数:3单词:wrote
+出现次数:3单词:index
+出现次数:3单词:frend
+出现次数:3单词:learnt
+出现次数:3单词:acknowledgements
+出现次数:3单词:rf
+出现次数:3单词:keith
+出现次数:3单词:grill
+出现次数:3单词:pc
+出现次数:3单词:bc
+出现次数:3单词:vectors
+出现次数:3单词:source
+出现次数:3单词:creative
+出现次数:3单词:crop
+出现次数:3单词:peopleimages
+出现次数:3单词:tc
+出现次数:3单词:stockbyte
+出现次数:2单词:relatives
+出现次数:2单词:relations
+出现次数:2单词:ravi
+出现次数:2单词:kavita
+出现次数:2单词:grandson
+出现次数:2单词:是
+出现次数:2单词:在
+出现次数:2单词:sbirthday
+出现次数:2单词:ended
+出现次数:2单词:became
+出现次数:2单词:die
+出现次数:2单词:genghis
+出现次数:2单词:khan
+出现次数:2单词:columbus
+出现次数:2单词:leonardo
+出现次数:2单词:da
+出现次数:2单词:vinci
+出现次数:2单词:princess
+出现次数:2单词:heath
+出现次数:2单词:ledger
+出现次数:2单词:mouth
+出现次数:2单词:lip
+出现次数:2单词:nail
+出现次数:2单词:toe
+出现次数:2单词:hip
+出现次数:2单词:hairs
+出现次数:2单词:gloves
+出现次数:2单词:sweater
+出现次数:2单词:naomi
+出现次数:2单词:glove
+出现次数:2单词:tim
+出现次数:2单词:schwenke
+出现次数:2单词:jakes
+出现次数:2单词:aren
+出现次数:2单词:agata
+出现次数:2单词:sanchez
+出现次数:2单词:polly
+出现次数:2单词:luca
+出现次数:2单词:negative
+出现次数:2单词:brackets
+出现次数:2单词:elena
+出现次数:2单词:sara
+出现次数:2单词:felicity
+出现次数:2单词:jeff
+出现次数:2单词:tropical
+出现次数:2单词:smoke
+出现次数:2单词:cycling
+出现次数:2单词:dialogues
+出现次数:2单词:connected
+出现次数:2单词:cowboy
+出现次数:2单词:bikes
+出现次数:2单词:sunbathing
+出现次数:2单词:sunita
+出现次数:2单词:nicholas
+出现次数:2单词:priya
+出现次数:2单词:wishes
+出现次数:2单词:sneezes
+出现次数:2单词:atishoo
+出现次数:2单词:buys
+出现次数:2单词:addition
+出现次数:2单词:woke
+出现次数:2单词:earlier
+出现次数:2单词:boss
+出现次数:2单词:disappointed
+出现次数:2单词:invite
+出现次数:2单词:rachel
+出现次数:2单词:situations
+出现次数:2单词:celebrate
+出现次数:2单词:afterwards
+出现次数:2单词:celebration
+出现次数:2单词:clooney
+出现次数:2单词:hamburgers
+出现次数:2单词:tomatoes
+出现次数:2单词:peas
+出现次数:2单词:strawberries
+出现次数:2单词:peə
+出现次数:2单词:onion
+出现次数:2单词:foods
+出现次数:2单词:objects
+出现次数:2单词:tick
+出现次数:2单词:colder
+出现次数:2单词:reads
+出现次数:2单词:turns
+出现次数:2单词:cleans
+出现次数:2单词:mrs
+出现次数:2单词:jaime
+出现次数:2单词:selim
+出现次数:2单词:umit
+出现次数:2单词:mr
+出现次数:2单词:paragraph
+出现次数:2单词:socket
+出现次数:2单词:liam
+出现次数:2单词:furnitures
+出现次数:2单词:plan
+出现次数:2单词:walls
+出现次数:2单词:writer
+出现次数:2单词:parked
+出现次数:2单词:physical
+出现次数:2单词:communication
+出现次数:2单词:technology
+出现次数:2单词:ohp
+出现次数:2单词:communications
+出现次数:2单词:moll
+出现次数:2单词:calls
+出现次数:2单词:girlfriend
+出现次数:2单词:list
+出现次数:2单词:messages
+出现次数:2单词:selfies
+出现次数:2单词:lisa
+出现次数:2单词:amy
+出现次数:2单词:claire
+出现次数:2单词:locked
+出现次数:2单词:low
+出现次数:2单词:talked
+出现次数:2单词:lock
+出现次数:2单词:flights
+出现次数:2单词:tent
+出现次数:2单词:comfortable
+出现次数:2单词:hotels
+出现次数:2单词:walked
+出现次数:2单词:kilometres
+出现次数:2单词:ways
+出现次数:2单词:ticks
+出现次数:2单词:cheap
+出现次数:2单词:alex
+出现次数:2单词:products
+出现次数:2单词:electricals
+出现次数:2单词:signs
+出现次数:2单词:bigger
+出现次数:2单词:coins
+出现次数:2单词:toy
+出现次数:2单词:tells
+出现次数:2单词:sale
+出现次数:2单词:checkout
+出现次数:2单词:taylor
+出现次数:2单词:website
+出现次数:2单词:asking
+出现次数:2单词:dollars
+出现次数:2单词:serve
+出现次数:2单词:meals
+出现次数:2单词:soft
+出现次数:2单词:alcoholic
+出现次数:2单词:salmon
+出现次数:2单词:fillet
+出现次数:2单词:starter
+出现次数:2单词:restaurants
+出现次数:2单词:potter
+出现次数:2单词:jennifer
+出现次数:2单词:aniston
+出现次数:2单词:jason
+出现次数:2单词:bourne
+出现次数:2单词:mars
+出现次数:2单词:songs
+出现次数:2单词:puzzle
+出现次数:2单词:president
+出现次数:2单词:grow
+出现次数:2单词:sleeps
+出现次数:2单词:shall
+出现次数:2单词:chatting
+出现次数:2单词:fantastic
+出现次数:2单词:beethoven
+出现次数:2单词:classic
+出现次数:2单词:harper
+出现次数:2单词:prefers
+出现次数:2单词:downloaded
+出现次数:2单词:musicians
+出现次数:2单词:abigail
+出现次数:2单词:usa
+出现次数:2单词:tunisia
+出现次数:2单词:brazilian
+出现次数:2单词:canadian
+出现次数:2单词:colombian
+出现次数:2单词:moroccan
+出现次数:2单词:african
+出现次数:2单词:tunisian
+出现次数:2单词:finnish
+出现次数:2单词:irish
+出现次数:2单词:scottish
+出现次数:2单词:pakistani
+出现次数:2单词:rome
+出现次数:2单词:canberra
+出现次数:2单词:bogotá
+出现次数:2单词:berlin
+出现次数:2单词:warsaw
+出现次数:2单词:buenos
+出现次数:2单词:aires
+出现次数:2单词:iceland
+出现次数:2单词:austria
+出现次数:2单词:saudi
+出现次数:2单词:arabia
+出现次数:2单词:amazon
+出现次数:2单词:volga
+出现次数:2单词:kilimanjaro
+出现次数:2单词:mississippi
+出现次数:2单词:fuji
+出现次数:2单词:titicaca
+出现次数:2单词:thundery
+出现次数:2单词:thunderstorm
+出现次数:2单词:moscow
+出现次数:2单词:shining
+出现次数:2单词:granada
+出现次数:2单词:chart
+出现次数:2单词:hanoi
+出现次数:2单词:la
+出现次数:2单词:paz
+出现次数:2单词:tashkent
+出现次数:2单词:dangerous
+出现次数:2单词:siberia
+出现次数:2单词:hurricanes
+出现次数:2单词:notices
+出现次数:2单词:ends
+出现次数:2单词:typical
+出现次数:2单词:forests
+出现次数:2单词:rivers
+出现次数:2单词:villages
+出现次数:2单词:farms
+出现次数:2单词:paths
+出现次数:2单词:foal
+出现次数:2单词:leather
+出现次数:2单词:wool
+出现次数:2单词:bacon
+出现次数:2单词:ham
+出现次数:2单词:wild
+出现次数:2单词:babies
+出现次数:2单词:reserve
+出现次数:2单词:advance
+出现次数:2单词:edinburgh
+出现次数:2单词:departs
+出现次数:2单词:attendant
+出现次数:2单词:nobody
+出现次数:2单词:checked
+出现次数:2单词:bags
+出现次数:2单词:depart
+出现次数:2单词:travels
+出现次数:2单词:hiring
+出现次数:2单词:culture
+出现次数:2单词:festival
+出现次数:2单词:presents
+出现次数:2单词:spend
+出现次数:2单词:toast
+出现次数:2单词:fireworks
+出现次数:2单词:politics
+出现次数:2单词:lily
+出现次数:2单词:www
+出现次数:2单词:learningenglish
+出现次数:2单词:robbery
+出现次数:2单词:mugging
+出现次数:2单词:theft
+出现次数:2单词:dealing
+出现次数:2单词:terrorism
+出现次数:2单词:terrorist
+出现次数:2单词:law
+出现次数:2单词:arrested
+出现次数:2单词:spoke
+出现次数:2单词:vandal
+出现次数:2单词:vandalism
+出现次数:2单词:hooliganism
+出现次数:2单词:attacks
+出现次数:2单词:arr
+出现次数:2单词:van
+出现次数:2单词:attacked
+出现次数:2单词:soaps
+出现次数:2单词:philip
+出现次数:2单词:cannot
+出现次数:2单词:plaster
+出现次数:2单词:chloe
+出现次数:2单词:crashes
+出现次数:2单词:earthquakes
+出现次数:2单词:floods
+出现次数:2单词:teachers
+出现次数:2单词:everyone
+出现次数:2单词:cheese
+出现次数:2单词:situation
+出现次数:2单词:topic
+出现次数:2单词:grandma
+出现次数:2单词:scarlett
+出现次数:2单词:pens
+出现次数:2单词:classes
+出现次数:2单词:stairs
+出现次数:2单词:plans
+出现次数:2单词:jan
+出现次数:2单词:carter
+出现次数:2单词:anywhere
+出现次数:2单词:follow
+出现次数:2单词:lines
+出现次数:2单词:sharps
+出现次数:2单词:zoe
+出现次数:2单词:penelope
+出现次数:2单词:asad
+出现次数:2单词:lars
+出现次数:2单词:buses
+出现次数:2单词:norwich
+出现次数:2单词:alexei
+出现次数:2单词:company
+出现次数:2单词:patients
+出现次数:2单词:heading
+出现次数:2单词:uses
+出现次数:2单词:classroom
+出现次数:2单词:jules
+出现次数:2单词:margaux
+出现次数:2单词:everybody
+出现次数:2单词:chocolates
+出现次数:2单词:studied
+出现次数:2单词:ate
+出现次数:2单词:till
+出现次数:2单词:invitation
+出现次数:2单词:refused
+出现次数:2单词:organise
+出现次数:2单词:groups
+出现次数:2单词:removed
+出现次数:2单词:trying
+出现次数:2单词:raincoat
+出现次数:2单词:midnight
+出现次数:2单词:listens
+出现次数:2单词:evenings
+出现次数:2单词:immediately
+出现次数:2单词:parent
+出现次数:2单词:jump
+出现次数:2单词:climb
+出现次数:2单词:jumped
+出现次数:2单词:flies
+出现次数:2单词:heathrow
+出现次数:2单词:missed
+出现次数:2单词:mile
+出现次数:2单词:charlie
+出现次数:2单词:bella
+出现次数:2单词:adrian
+出现次数:2单词:madeline
+出现次数:2单词:kate
+出现次数:2单词:extra
+出现次数:2单词:gives
+出现次数:2单词:joined
+出现次数:2单词:sons
+出现次数:2单词:almost
+出现次数:2单词:minute
+出现次数:2单词:valentina
+出现次数:2单词:barbecue
+出现次数:2单词:barbecues
+出现次数:2单词:russia
+出现次数:2单词:nora
+出现次数:2单词:matthew
+出现次数:2单词:adam
+出现次数:2单词:practise
+出现次数:2单词:alexa
+出现次数:2单词:positions
+出现次数:2单词:motorway
+出现次数:2单词:mark
+出现次数:2单词:sang
+出现次数:2单词:sadly
+出现次数:2单词:strangely
+出现次数:2单词:count
+出现次数:2单词:yours
+出现次数:2单词:kilo
+出现次数:2单词:sauce
+出现次数:2单词:east
+出现次数:2单词:vehicle
+出现次数:2单词:smell
+出现次数:2单词:stars
+出现次数:2单词:success
+出现次数:2单词:carefully
+出现次数:2单词:molly
+出现次数:2单词:josephine
+出现次数:2单词:strange
+出现次数:2单词:prefix
+出现次数:2单词:im
+出现次数:2单词:un
+出现次数:2单词:hyphen
+出现次数:2单词:nerves
+出现次数:2单词:suffix
+出现次数:2单词:win
+出现次数:2单词:finish
+出现次数:2单词:smiling
+出现次数:2单词:knew
+出现次数:2单词:golf
+出现次数:2单词:electric
+出现次数:2单词:opener
+出现次数:2单词:confuse
+出现次数:2单词:expect
+出现次数:2单词:given
+出现次数:2单词:sleeping
+出现次数:2单词:lie
+出现次数:2单词:lay
+出现次数:2单词:laid
+出现次数:2单词:rise
+出现次数:2单词:rose
+出现次数:2单词:risen
+出现次数:2单词:raised
+出现次数:2单词:nephews
+出现次数:2单词:ana
+出现次数:2单词:antonio
+出现次数:2单词:pedro
+出现次数:2单词:carla
+出现次数:2单词:dolores
+出现次数:2单词:consuela
+出现次数:2单词:widowed
+出现次数:2单词:kevin
+出现次数:2单词:turning
+出现次数:2单词:passes
+出现次数:2单词:following
+出现次数:2单词:stuff
+出现次数:2单词:coldmail
+出现次数:2单词:push
+出现次数:2单词:director
+出现次数:2单词:australasia
+出现次数:2单词:tigers
+出现次数:2单词:pigs
+出现次数:2单词:goats
+出现次数:2单词:advert
+出现次数:2单词:advertisement
+出现次数:2单词:earthquake
+出现次数:2单词:impolite
+出现次数:2单词:spoken
+出现次数:2单词:written
+出现次数:2单词:phonemic
+出现次数:2单词:syllable
+出现次数:2单词:stress
+出现次数:2单词:eə
+出现次数:2单词:læmp
+出现次数:2单词:bæg
+出现次数:2单词:frendz
+出现次数:2单词:disaster
+出现次数:2单词:æn
+出现次数:2单词:criminal
+出现次数:2单词:dei
+出现次数:2单词:tu
+出现次数:2单词:eks
+出现次数:2单词:fə
+出现次数:2单词:heə
+出现次数:2单词:seɪ
+出现次数:2单词:naʊ
+出现次数:2单词:miss
+出现次数:2单词:nekst
+出现次数:2单词:peɪ
+出现次数:2单词:es
+出现次数:2单词:pet
+出现次数:2单词:tekst
+出现次数:2单词:sel
+出现次数:2单词:taɪ
+出现次数:2单词:beat
+出现次数:2单词:become
+出现次数:2单词:shot
+出现次数:2单词:caught
+出现次数:2单词:spent
+出现次数:2单词:fought
+出现次数:2单词:stood
+出现次数:2单词:heard
+出现次数:2单词:kept
+出现次数:2单词:understood
+出现次数:2单词:forgotten
+出现次数:2单词:sources
+出现次数:2单词:copyright
+出现次数:2单词:material
+出现次数:2单词:blann
+出现次数:2单词:jamie
+出现次数:2单词:lightrocket
+出现次数:2单词:digital
+出现次数:2单词:cl
+出现次数:2单词:cr
+出现次数:2单词:richard
+出现次数:2单词:gillian
+出现次数:2单词:photography
+出现次数:2单词:brand
+出现次数:2单词:simon
+出现次数:2单词:imagebroker
+出现次数:2单词:robert
+出现次数:2单词:universal
+出现次数:2单词:jetta
+出现次数:2单词:flamingpumpkin
+出现次数:2单词:str
+出现次数:2单词:bananastock
+出现次数:2单词:alistair
+出现次数:2单词:berg
+出现次数:2单词:mint
+出现次数:2单词:jupiterimages
+出现次数:2单词:stone
+出现次数:2单词:zoonar
+出现次数:2单词:maskot
+出现次数:2单词:exclusive
+出现次数:2单词:mac
+出现次数:2单词:qbs
 
 

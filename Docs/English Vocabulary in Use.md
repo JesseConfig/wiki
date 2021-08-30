@@ -522,380 +522,155 @@ Some of the words on this page are a little negative(有点负面), so be carefu
 这一页上的一些单词有点负面，所以要小心使用它们。最好不要对别人说：
 
 ‘You are fat / thin / ugly / old.’
+你 胖/ 瘦/ 丑陋/ 老
 
-16
-
-English Vocabulary in Use Elementary
-
-
-
-Exercises
-
-5.1 Complete the sentences.
-
-1 He’s only 1 metre 52. He’s quite.short
-
-2 Very
-
-people are often good at basketball.
-
-3 Models are usually
-
-.
-
-4 Does she have dark skin? No, it’s
-
-.
-
-5 She’s only seven. She’s very
-
-.
-
-6 If I eat too much I’ll be
-
-.
-
-7 My grandmother is in this hospital. It’s a hospital for
-
-people. (don’t use ‘ old’)
-
-5.2 Complete the questions using the words in brackets ().
-
-1 How tall is your brother?
-
-(your brother)
-
-He’s about 1 metre 75.
-
-2 Is
-
-? (Elena’s hair)
-
-No, she’s got dark hair.
-
-3 Is
-
-? (Mike’s hair)
-
-Yes, it is quite long.
-
-4 Are
-
-? (your parents)
-
-Not really, they’re middle-aged.
-
-5 Is
-
-? (his sister)
-
-Yes, she’s very pretty.
-
-6 Why
-
-? (Sara, so thin)
-
-She’s very ill.
-
-5.3 Write sentences about the
-
-people in these pictures.
-
-Felicity
-
-Jeff
-
-Anika
-
-Stefan
-
-1 Felicity’s got blonde hair and fair skin.
-
-2 Jeffhas
-
-3 Anika’s got
-
-4 Stefan’s hair is
-
-and he
-
-5.4 Write questions.
-
-1 your brother, height
-
-How tall is your brother?
-
-2 your teacher, looks
-
-3 you, weight
-
-4 your mother, age
-
-5 your sister, height
-
-6 your parents, looks
-
-5.5 Now write answers to the questions in 5.4.
-
-1 He’s not very tall. He’s 1 metre 52.
-
-Over to you
-
-Write down the names of three people you know. Then write about their:
-
-• height (tall, short, medium height)
-
-• eyes (colour)
-
-• hair (colour, long, short, beard)
-
-• looks (pretty, average-looking, etc.)
-
-English Vocabulary in Use Elementary
-
-17
-
-
-
-
-
-6 Healthandillness
+## 6 Heal thand illness 健康和疾病
 
 ### A
 
 How are you today?
+你今天好吗？
 
 I’m very well, thanks.
+我很好，谢谢。
 
 I’m fine, thanks.
+我很好，谢谢。
 
-I don’t feel very well. I must go home and rest. (I’ll probably be OK tomorrow.) I feel ill. Can you get a doctor, please? (Perhaps it’s a serious problem.) That fish was bad. I think I’m going to be sick! (I want to vomit.) B
+I don’t feel(感觉；认为) very well. I must go home and rest. (I’ll probably be OK tomorrow.) I feel ill. Can you get a doctor, please? (Perhaps it’s a serious problem.) That fish was bad. I think I’m going to be sick! (I want to vomit.) 
+我感觉不太舒服。我必须回家休息(我明天可能会好的。）我感觉不舒服。请你找个医生好吗(也许这是一个严重的问题。）那条鱼不好。我想我要生病了(我想呕吐。）
 
-Everyday problems
+### B Everyday problems  日常问题
 
-Have you got an aspirin? I’ve got a headache. /'hedeIk/
+Have you got an aspirin? I’ve got a headache. /'hedeIk/( 头痛；麻烦；令人头痛之事)
+你有阿司匹林吗？我头痛
 
 I’ve got toothache. /ˈtuːθeɪk/ I need to go to the dentist.
+我牙痛 我需要去看牙医
 
 I’m going to bed with a hot drink. I’ve got a cold.
+我要带一杯热饮上床睡觉。我感冒了。
 
-### C
-
-Problems people have for many years / all their lives
+### C Problems people have for many years / all their lives 人们多年来/一生中遇到的问题
 
 I get hay fever every summer, from flowers and grass. I sneeze all day. /sniːz/
+每年夏天我都会因为花草而得花粉热。我整天打喷嚏
 
 My little brother has asthma; sometimes he can’t breathe. /ˈæsmə/
+我弟弟有哮喘；有时他不能呼吸
 
-### D
-
-Illnesses in hot / tropical countries
+### D Illnesses in hot / tropical countries 炎热/热带国家的疾病
 
 In some countries, mosquitoes can give people
+在一些国家，蚊子会给人带来疾病
 
-mosquito
+mosquito 蚊子
 
-malaria. /məˈleərɪə/
+malaria. /məˈleərɪə/ 疟疾；瘴气
 
 The drinking water was bad, and many children
+饮用水不好，很多孩子
 
-had cholera. /ˈkɒlərə/
+had cholera. /ˈkɒlərə/ 他得了霍乱
 
-### E
+### E Serious illnesses  严重疾病
 
-Serious illnesses
-
-Common mistakes
+Common mistakes 常见错误
 
 Every year cancer kills many
+每年都有许多人死于癌症
 
 people who smoke. /ˈkænsə/
+吸烟的人
 
 My father had a heart attack
+我父亲心脏病发作了
 
 My father went to hospital when he
+当我父亲去了医院
 
 [NOT got a heart attack].
+Not 心脏病发作
 
 had a heart attack.
+他心脏病发作了。
 
-### F
-
-Expressions
+### F Expressions 生词短语
 
 A Do you have a healthy diet?
+你有健康的饮食吗？
 
 B Yes, I eat lots of fruit and vegetables.
+是的，我吃很多水果和蔬菜
 
 A Do you exercise?
+你是否经常运动
+
 
 B Yes, I like swimming, jogging and cycling. They’re really good for you.
+是的，我喜欢游泳、慢跑和骑自行车。它们对你真的很好。
 
 A I feel stressed!
+我感到有压力！
 
 B Do you? You need to relax more and don’t panic about work!
+你…吗？你需要更多地放松，不要为工作而惊慌！
+ 
 
-18
+## 7 Feelings  情感
 
-English Vocabulary in Use Elementary
+### A Love, like and hate 爱、喜欢和恨
 
+love 爱；爱情；喜好
 
-
-Exercises
-
-6.1 Complete the dialogues.
-
-1 A: How are you today?
-
-B: Very well, thanks.
-
-A: Good!
-
-2 A: Are you OK?
-
-B: No,
-
-A: Would you like to use the bathroom?
-
-B: Yes, thank you.
-
-3 A: I
-
-B: I’ll get a doctor.
-
-A: Oh, thank you.
-
-4 A:
-
-B: Here’s the dentist’s phone number.
-
-A: Thanks.
-
-5 A: Your nose is red. Have you got
-
-?
-
-B: Yes.
-
-A: Have a hot drink and go to bed early.
-
-6.2 Match the illnesses in the table with a possible treatment.
-
-gotothedentist
-
-takeanaspirin
-
-gotohospital
-
-gotobedwithahotdrink
-
-illness
-
-treatment
-
-a headache
-
-take an aspirin
-
-toothache
-
-a heart attack
-
-a cold
-
-6.3 What illnesses are connected with …
-
-1 a mosquito bite? malaria
-
-2 bad drinking water?
-
-3 pollution, traffic fumes, etc.?
-
-4 grass, flowers, sunshine, etc.?
-
-5 smoking, unhealthy diet, no exercise?
-
-6.4 Answer these questions. Use a dictionary to help you.
-
-1 Do you have a healthy diet?
-
-2 What exercise do you do?
-
-3 Do you often feel stressed?
-
-4 Have you ever been in hospital?
-
-5 Do you get hay fever in summer?
-
-English Vocabulary in Use Elementary
-
-19
-
-
-
-
-
-7 Feelings
-
-### A
-
-Love, like and hate
-
-++
-
-+
-
-–
-
-– –
-
-love
-
-like
+like 喜欢 像是
 
 don’t like
+不喜欢
 
-hate
+hate  憎恨；厌恶；遗憾
 
 I love my family and my best friend.
+我爱我的家人和我最好的朋友。
 
 I like my job.
+我喜欢我的工作。
 
-I don’t like horror films.
+I don’t like horror films. 电影 拍摄（film的第三人称单数）
+我不喜欢恐怖电影
 
-I hate spiders.
+I hate spiders. 我讨厌蜘蛛
 
-### B
+### B Happy, sad and tired 快乐、悲伤和疲惫
 
-Happy, sad and tired
+happy 快乐
 
-happy
+sad 悲伤
 
-sad
+angry  生气的
 
-angry
+upset 心烦
 
-upset
+cold 寒冷的
 
-cold
+hot 热
 
-hot
+thirsty 口渴的
 
-thirsty
+hungry  饥饿的
 
-hungry
+well 健康的 很好地；充分地；满意地；适当地
 
-well
+ill 生病的；坏的；邪恶的；不吉利的
 
-ill
+tired 疲倦的；厌倦的，厌烦的
 
-tired
+surprised 感到惊讶的，出人意料的
 
-surprised
-
-Common mistakes
+Common mistakes  常见错误
 
 I am very happy about your news [NOT I am very happy for your news]. BUT You did very well in your exam – I’m very happy for you.
+我对关于你的消息感到很高兴[不是我对你的消息很高兴]。但是你考试考得很好，我为你感到高兴。
 
 ### C
 
